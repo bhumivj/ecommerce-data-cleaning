@@ -1,0 +1,616 @@
+product_id,title,rating,ratings_count,initial_price,discount,final_price,category,seller_name,total_amount
+9136281,Tommy Hilfiger,4.5,67,2899,35.0,2899.0,backpacks,Unknown,194233.0
+17633752,Lavie,4.4,226,2999,65.0,2999.0,backpacks,Unknown,677774.0
+1376949,F Gear,4.4,1052,1675,52.0,1675.0,backpacks,Unknown,1762100.0
+13939916,MYTRIDENT,4.7,12,2899,17.0,2899.0,bath-robe,Unknown,34788.0
+17198778,H&M,4.5,42,1399,,1399.0,bathroom-accessories,H &███Hen███ & █████████eta█████████████████████,58758.0
+19851824,AVI Living,4.0,5,1399,65.0,1399.0,bath-towels,Unknown,6995.0
+18602872,My Room,4.7,10,2999,54.0,2999.0,bedsheets,Unknown,29990.0
+18602850,My Room,4.5,22,2999,54.0,2999.0,bedsheets,Unknown,65978.0
+8430275,MYTRIDENT,4.4,26,2199,46.0,2199.0,bedsheets,Unknown,57174.0
+19788630,Home Ecstasy,4.5,6,1199,42.0,1199.0,bedsheets,Unknown,7194.0
+18346134,Arrabi,4.3,12,6329,76.0,6329.0,bedsheets,Unknown,75948.0
+18985918,Tommy Hilfiger,4.1,11,2999,40.0,1799.0,bodysuit,PVH███VIN███ASH█████████TE ███████████████,19789.0
+22120138,Ed-a-Mamma Baby,4.2,5,999,30.0,699.0,bodysuit,ETE███LIA███EAT█████████CHA█████████████████████ED,3495.0
+21427828,London Rag,5.0,4,9599,60.0,3839.0,boots,VOL███FAS███N P█████████,15356.0
+17372928,The Souled Store,4.5,22,799,54.0,367.0,boxers,THE███ULE███TOR█████████D.,8074.0
+15115018,Jockey,4.4,1582,579,,579.0,bra,Tru███m R███il,915978.0
+22063882,GROVERSONS Paris Beauty,4.0,25,399,25.0,299.0,bra,Gro███son███ppa█████████Ltd███,7475.0
+19219450,Susie,4.3,12,749,50.0,374.0,bra,GEN███AD ███AIL█████████LIM██████,4488.0
+22196924,Zivame,4.3,118,999,50.0,499.0,bra,MIL███AR ███AIL█████████LIM██████,58882.0
+19219468,Susie,4.0,6,699,43.0,398.0,bra,GEN███AD ███AIL█████████LIM██████,2388.0
+19277544,Marks & Spencer,4.3,24,2999,60.0,2249.0,bra,Ret███Net███,53976.0
+18223842,max,4.1,37,449,20.0,449.0,bra,Unknown,16613.0
+18656766,VStar,4.6,5,345,,345.0,bra,V S███ CR███ION█████████,1725.0
+18656764,VStar,4.3,6,345,,345.0,bra,V S███ CR███ION█████████,2070.0
+13523458,shyaway,4.3,6,2547,52.0,2547.0,bra,Unknown,15282.0
+18652628,max,4.2,5,649,20.0,649.0,bra,Unknown,3245.0
+17774350,Zivame,4.2,9,995,50.0,995.0,bra,Unknown,8955.0
+16704504,ZINU,4.1,7,699,45.0,384.0,bracelet,SAN███UNE███,2688.0
+21873792,KARATCART,4.6,5,3397,76.0,815.0,bracelet,KOK███V G███AL █████████,4075.0
+21573578,Jewels Galaxy,4.2,24,1329,77.0,305.0,bracelet,RS ███els███,7320.0
+16696094,Van Heusen,4.6,192,649,,649.0,briefs,Wes███ry ███din█████████d_M██████,124608.0
+21867416,DressBerry,4.1,14,299,28.0,215.0,briefs,VAC███CRE███ONS███,3010.0
+21850852,Soie,4.9,14,390,5.0,370.0,briefs,GIN███IND███RIE█████████,5180.0
+21569986,Chromozome,4.2,18,1199,40.0,395.0,briefs,Sup███om ███,7110.0
+22196594,Zoiro,5.0,6,499,,499.0,briefs,J.G███OSI███ PR█████████ITE███,2994.0
+22196914,Zivame,4.6,5,799,50.0,399.0,briefs,MIL███AR ███AIL█████████LIM██████,1995.0
+21906602,bummer,4.6,23,599,25.0,449.0,briefs,BAL███APP███LS █████████IMI██████,10327.0
+13889998,XYXX,4.1,202,249,,249.0,briefs,XYX███PPA███S P█████████MIT████████████,50298.0
+22436508,Bruchi CLUB,5.0,4,888,65.0,310.0,briefs,BRU███ CL███APP█████████ATE█████████,1240.0
+18882294,VStar,4.8,10,265,,265.0,camisoles,V S███ CR███ION█████████,2650.0
+16281444,Bharatasya,4.3,7,699,68.0,223.0,caps,VR ███ign███,1561.0
+18506050,Bata,4.4,86,1199,55.0,539.0,casual-shoes,Bat███ndi███imi██████,46354.0
+21903832,U.S. Polo Assn.,4.1,16,4299,25.0,3224.0,casual-shoes,ARV███ LI███TYL█████████LIM██████,51584.0
+21321784,San Frissco,4.3,6,5995,72.0,1678.0,casual-shoes,ARY███ FO███EAR█████████PVT██████,10068.0
+21907914,MOZAFIA,4.0,225,1999,60.0,799.0,casual-shoes,DHV███LOB███PRI█████████TED███,179775.0
+21497770,Puma,4.1,111,4999,55.0,2249.0,casual-shoes,Pum███por███Ind█████████td.█████████,249639.0
+18489168,TOMS,4.3,6,4999,,4999.0,casual-shoes,V R███il ███ Lt███,29994.0
+17312062,Clarks,4.6,31,6999,50.0,6999.0,casual-shoes,CLA███ RE███NCE█████████ PV██████,216969.0
+16284648,Crew STREET,4.1,41,3099,55.0,1394.0,casual-shoes,Sup███om ███,57154.0
+19103830,PUMA Motorsport,4.5,157,6999,55.0,4199.0,casual-shoes,Sup███om ███,659243.0
+21937664,Cortina,4.7,15,2598,64.0,935.0,chair-cover,Bha███vna███Imp█████████ect███,14025.0
+16712992,Cutiekins,4.1,454,1999,70.0,719.0,clothing-set,CUT███INS███IVA█████████D,326426.0
+21836198,Nottie Planet,4.5,13,449,30.0,314.0,clothing-set,MOO███ FA███ONS█████████,4082.0
+18193844,Rubans,4.1,25,1980,75.0,1980.0,clutches,Unknown,49500.0
+16694464,Ahalyaa,4.1,195,5000,66.0,1700.0,co-ords,UDA███ASH███,331500.0
+18494054,Home Sizzler,4.3,48,799,40.0,399.0,curtains-and-sheers,Fla███ech███tai███,19152.0
+16185546,ellementry,5.0,5,1750,,1750.0,cutlery,Dil███ Es███tia█████████d,8750.0
+21426422,Trendyol,4.1,10,4399,45.0,2419.0,dresses,Sup███om ███,24190.0
+21238004,COVER STORY,4.8,24,3490,40.0,2094.0,dresses,Cov███Sto███Clo█████████ite███,50256.0
+21664854,aarke Ritu Kumar,4.0,6,2200,30.0,1540.0,dresses,REL███CE ███U K█████████ATE█████████,9240.0
+21664974,Label Ritu Kumar,4.6,7,4500,30.0,3150.0,dresses,REL███CE ███U K█████████ATE█████████,22050.0
+21664840,aarke Ritu Kumar,4.0,6,3500,30.0,2450.0,dresses,REL███CE ███U K█████████ATE█████████,14700.0
+22004792,WoowZerz,4.8,26,2495,50.0,1247.0,dresses,Man███ Fa███ona██████,32422.0
+18962890,Athena,4.0,34,2499,64.0,899.0,dresses,APE███PPA███S,30566.0
+18962984,Athena,4.3,236,2499,68.0,799.0,dresses,APE███PPA███S,188564.0
+18951626,Berrylush,4.0,60,1899,78.0,398.0,dresses,Sup███om ███,23880.0
+18977246,AURELIA,4.1,140,4299,59.0,1750.0,dresses,Esh███ox ███mme█████████td,245000.0
+18962990,Athena,4.2,35,2499,66.0,849.0,dresses,APE███PPA███S,29715.0
+18956684,Forevermore,4.2,5,1599,,1599.0,dresses,Ami███nte███ise███,7995.0
+18981160,Amydus,4.7,43,2799,,2799.0,dresses,BEG███01 ███EST██████,120357.0
+18962952,Athena,4.2,3797,2799,60.0,1119.0,dresses,Ape███ppa███s -██████,4248843.0
+15788324,Tokyo Talkies,4.2,347,1399,53.0,475.0,dresses,Vis███ St███,164825.0
+15691070,QUIERO,4.1,474,2820,65.0,987.0,dresses,Per███nkl███esi██████,467838.0
+13770986,all about you,4.2,38,2999,,2999.0,dresses,Unknown,113962.0
+17592092,U&F,4.1,7,2899,74.0,753.0,dresses,SVP███XPO███ PR█████████ITE███,5271.0
+17661682,Tokyo Talkies,4.1,13,1549,61.0,340.0,dresses,Vis███ St███,4420.0
+17692718,Style Quotient,4.8,8,1599,69.0,495.0,dresses,Kri███n S███het█████████td,3960.0
+17194598,Tokyo Talkies,4.3,48,1749,65.0,437.0,dresses,Vis███ St███,20976.0
+17194592,Tokyo Talkies,4.1,240,1749,65.0,367.0,dresses,Vis███ St███,88080.0
+18207478,Tokyo Talkies,4.1,333,699,60.0,279.0,dresses,Vis███ St███,92907.0
+18996672,Bella Moda,4.6,8,2017,70.0,605.0,dresses,SHI███TRA███S,4840.0
+15191784,Kazo,4.0,35,3690,60.0,1476.0,dresses,Kaz███ash███ PV█████████JIT███,51660.0
+19213200,Label Ritu Kumar,4.8,5,5200,40.0,3120.0,dresses,REL███CE ███U K█████████ATE█████████,15600.0
+19987092,Vastralay,4.2,17,2999,78.0,659.0,dresses,ASH███ PR███S,11203.0
+10054817,Veni Vidi Vici,4.3,110,1890,60.0,756.0,dresses,NYM███EA ███HIO█████████ PR███████████████,83160.0
+10054855,Veni Vidi Vici,4.2,389,1890,60.0,756.0,dresses,NYM███EA ███HIO█████████ PR███████████████,294084.0
+10691426,SASSAFRAS,4.5,4441,2199,65.0,769.0,dresses,ARD███ Re███l C███,3415129.0
+18963006,Athena,4.3,45,2499,68.0,799.0,dresses,APE███PPA███S,35955.0
+19513066,Stylecast X Hersheinbox,4.5,11,2559,54.0,2559.0,dresses,Unknown,28149.0
+18975316,Berrylush,4.2,31,3200,74.0,640.0,dresses,Sup███om ███,19840.0
+21664826,aarke Ritu Kumar,4.0,6,2800,30.0,1960.0,dresses,REL███CE ███U K█████████ATE█████████,11760.0
+21242962,Tommy Hilfiger,4.4,9,5999,40.0,5699.0,dresses,Fla███ech███tai███,51291.0
+21653646,ONLY,4.6,5,3299,60.0,1319.0,dresses,ONL███ETA███PVT██████,6595.0
+20022902,Slenor,4.4,10,3599,59.0,1475.0,dresses,Sle███ Ap███els███,14750.0
+20046216,YK Disney,5.0,7,999,67.0,329.0,dresses,CRO███OAD███LOT█████████LTD███,2303.0
+22590642,YU by Pantaloons,4.8,12,1499,52.0,719.0,dresses,Wes███ry ███din█████████d_P████████████,8628.0
+13572604,Tokyo Talkies,4.2,58,1799,63.0,1799.0,dresses,Unknown,104342.0
+13649832,all about you,4.3,56,1999,,1999.0,dresses,Unknown,111944.0
+13387584,Wish Karo,4.1,11,1999,65.0,699.0,dresses,Kot███da ███est█████████Ltd███,7689.0
+22622806,HERE&NOW,4.0,22,2999,67.0,989.0,dresses,ANI███OTH███,21758.0
+13558254,Tokyo Talkies,4.1,934,1349,59.0,1349.0,dresses,Unknown,1259966.0
+13586840,all about you,4.0,29,1899,55.0,1899.0,dresses,Unknown,55071.0
+13586818,all about you,4.0,208,1899,54.0,1899.0,dresses,Unknown,394992.0
+13406942,Global Desi,4.8,8,1799,75.0,449.0,dresses,OCH███AND███ACK█████████LIM██████,3592.0
+1341220,Miss Chase,4.4,22,1149,10.0,689.0,dresses,CHA███LIF███YLE█████████,15158.0
+13387582,Wish Karo,4.7,18,2123,65.0,743.0,dresses,Kot███da ███est█████████Ltd███,13374.0
+13391540,Mast & Harbour,4.1,576,1999,66.0,679.0,dresses,SWARR,391104.0
+13435624,Deewa,4.1,28,2199,69.0,681.0,dresses,Sun███ne ███t W██████,19068.0
+13382036,plusS,4.2,623,1899,83.0,322.0,dresses,Shi███Int███ati█████████rel███,200606.0
+13449506,DOOR74,5.0,7,2399,70.0,719.0,dresses,JXP███S,5033.0
+22590644,YU by Pantaloons,4.7,17,1399,54.0,643.0,dresses,Wes███ry ███din█████████d_P████████████,10931.0
+13398280,Zastraa,4.3,45,3299,70.0,989.0,dresses,MON███ CR███ION█████████,44505.0
+22596522,Vero Moda,4.3,12,3799,65.0,1329.0,dresses,VER███ODA███TAI█████████,15948.0
+12356000,KLEIO,4.6,8,3499,55.0,3499.0,duffel-bag,Unknown,27992.0
+21656682,Dupatta Bazaar,4.3,33,999,51.0,499.0,dupatta,LAA███TEX███E P█████████,16467.0
+22601210,Nimidiya,4.5,13,999,60.0,399.0,dupatta,PRE███TI ███LEC██████,5187.0
+20195790,Dupatta Bazaar,4.7,10,999,48.0,999.0,dupatta,Unknown,9990.0
+12999996,Vishudh,4.6,17,599,62.0,227.0,dupatta,Fla███tar███mme██████,3859.0
+15713414,Crunchy Fashion,4.2,22,1998,68.0,639.0,earrings,Cru███y F███ion█████████,14058.0
+15750524,Priyaasi,4.4,97,7999,74.0,2079.0,earrings,PRI███DES███S P█████████MIT███,201663.0
+15014966,Priyaasi,4.9,13,3949,76.0,947.0,earrings,PRI███DES███S P█████████MIT███,12311.0
+10125243,KARATCART,4.0,213,1282,62.0,487.0,earrings,KOK███V G███AL █████████,103731.0
+10564232,PRITA BY PRIYAASI,4.3,727,1130,69.0,350.0,earrings,PRI███DES███S P█████████MIT███,254450.0
+10135431,Priyaasi,4.5,347,1000,50.0,500.0,earrings,PRI███DES███S P█████████MIT███,173500.0
+10125225,KARATCART,4.1,872,1568,73.0,423.0,earrings,KOK███V G███AL █████████,368856.0
+10125241,KARATCART,4.2,22,1711,82.0,307.0,earrings,KOK███V G███AL █████████,6754.0
+19925208,Yellow Chimes,4.1,14,774,44.0,433.0,earrings,MER███I F███S A█████████ION██████████████████,6062.0
+17354670,ANIKAS CREATION,4.0,5,1995,69.0,1995.0,earrings,Unknown,9975.0
+20041906,KARATCART,4.3,9,1730,65.0,605.0,earrings,KOK███V G███AL █████████,5445.0
+22601952,SOHI,4.5,15,1455,76.0,349.0,earrings,Bil███nka███Pri█████████ted███,5235.0
+22618882,Saraf RS Jewellery,4.2,99,3795,77.0,872.0,earrings,HB ███DER███RIV█████████ED,86328.0
+14467848,GIVA,4.4,17,2799,50.0,1399.0,earrings,Ind███ewe███ash█████████ Lt███,23783.0
+14399558,Shoshaa,4.6,21,2488,72.0,696.0,earrings,SHO███A D███GNS██████,14616.0
+19072820,FemNmas,4.4,5,249,,249.0,earrings,FEM███MAS███,1245.0
+13402874,Crunchy Fashion,4.2,6,1575,78.0,346.0,earrings,Cru███y F███ion█████████,2076.0
+13340876,Kord Store,4.4,7,4524,88.0,542.0,earrings,Kor███yst███,3794.0
+12930744,ANIKAS CREATION,4.4,16,1075,55.0,483.0,earrings,Jai███i J███lle███,7728.0
+21990058,Rustorange,5.0,2,3299,55.0,1484.0,ethnic-dresses,Zak███i I███tec█████████ Li██████,2968.0
+21992820,PANIT,4.4,14,7999,71.0,2319.0,ethnic-dresses,R.U███NGH███D G█████████PPA█████████████████████,32466.0
+15741088,Ashnaina,4.1,88,1799,67.0,593.0,ethnic-dresses,WWC███ON ███LER███,52184.0
+15788632,AURELIA,4.2,14,2499,44.0,1380.0,ethnic-dresses,Esh███ox ███mme█████████td,19320.0
+15749780,W,4.3,23,3999,60.0,1599.0,ethnic-dresses,Fla███ech███tai███,36777.0
+19990734,VASTRAMAY,4.7,9,2499,61.0,974.0,ethnic-dresses,Vas███may███t. ██████,8766.0
+13404948,YASH GALLERY,4.1,67,3899,76.0,935.0,ethnic-dresses,Yas███all███ Pr█████████ite███,62645.0
+13355452,Rangriti,4.4,33,1299,35.0,1299.0,ethnic-dresses,Sup███om ███,42867.0
+13405888,Saanjh,4.0,7,1969,62.0,787.0,ethnic-dresses,SHA███ RE███LS,5509.0
+15787112,Mamaearth,4.3,903,319,12.0,280.0,face-moisturisers,Hon███ Co███mer█████████Lim██████,252840.0
+12926546,natural vibes,4.8,9,449,5.0,426.0,face-wash-and-cleanser,TRA███LA ███OM █████████,3834.0
+16704788,Birkenstock,4.5,12,4990,,4990.0,flats,Net███str███tio█████████s P█████████,59880.0
+21888172,Brauch,4.0,10,1499,60.0,599.0,flats,Bra███ En███pri██████,5990.0
+21735080,Birkenstock,4.5,11,6990,,6990.0,flats,Net███str███tio█████████s P█████████,76890.0
+21735014,Birkenstock,4.8,5,9490,,9490.0,flats,Net███str███tio█████████s P█████████,47450.0
+21928414,Clarks,4.0,11,3499,,3499.0,flats,CLA███ RE███NCE█████████ PV██████,38489.0
+18638536,CODE by Lifestyle,4.0,20,1499,50.0,1499.0,flats,Unknown,29980.0
+13596626,Anouk,4.3,44,2299,,2299.0,flats,Unknown,101156.0
+21205620,Tommy Hilfiger,4.3,8,2599,30.0,1559.0,flip-flops,PVH███VIN███ASH█████████TE ███████████████,12472.0
+21497394,Puma,4.1,52,999,50.0,499.0,flip-flops,Omn███ch ███ail███,25948.0
+18521180,Reebok,4.5,75,1999,50.0,999.0,flip-flops,Tru███m R███il,74925.0
+20124616,Duke,4.3,20,399,35.0,259.0,flip-flops,Duk███ash███s I█████████ted███,5180.0
+19790160,toothless,4.1,15,499,60.0,199.0,flip-flops,PUR███ UN███D S█████████ATE█████████,2985.0
+18598106,Ginger by Lifestyle,4.4,45,499,40.0,499.0,flip-flops,Unknown,22455.0
+16168398,Bata,4.1,38,599,25.0,449.0,flip-flops,Bat███ndi███imi█████████),17062.0
+15134218,Paragon,4.0,66,599,45.0,329.0,flip-flops,Par███n P███mer█████████ Pv█████████,21714.0
+21431930,yoho,4.0,24,1499,63.0,554.0,flip-flops,Inn███tiv███ife█████████hno█████████████████████,13296.0
+13374286,Saral Home,4.7,7,1999,27.0,1459.0,floor-mats--dhurries,SAR███HOM███ASY█████████RIV████████████,10213.0
+13374334,Saral Home,4.4,5,1999,27.0,1459.0,floor-mats--dhurries,SAR███HOM███ASY█████████RIV████████████,7295.0
+21931392,Clarks,4.4,7,9999,40.0,5999.0,formal-shoes,CLA███ RE███NCE█████████ PV██████,41993.0
+17755896,Red Tape,4.0,265,6899,70.0,6899.0,formal-shoes,Unknown,1828235.0
+21602846,SUGAR,4.2,12,899,,899.0,foundation,VEL███TTE███FES█████████LTD███,10788.0
+14950128,YK,4.5,62,699,50.0,349.0,gloves,V P███WAL███SIE█████████Y,21638.0
+16721772,BodyHerbals,4.4,14,399,16.0,335.0,hair-brush-and-comb,PUR███ART███NTE█████████,4690.0
+18584192,7 DAYS,4.5,13,499,56.0,219.0,hair-cream-and-mask,7 D███ OR███IC █████████,2847.0
+18584190,7 DAYS,4.4,11,499,56.0,219.0,hair-masks,7 D███ OR███IC █████████,2409.0
+21421856,Baggit,4.4,5,1990,50.0,796.0,handbags,Sup███om ███,3980.0
+21421918,Baggit,4.6,18,1890,46.0,1039.0,handbags,Sup███om ███,18702.0
+16696848,Accessorize,4.6,38,4995,61.0,1648.0,handbags,Tru███m R███il,62624.0
+18200086,Caprese,4.0,59,3699,75.0,924.0,handbags,Ret███Net███,54516.0
+7743536,Lino Perros,4.5,6,4495,66.0,4495.0,handbags,Unknown,26970.0
+7743355,Lino Perros,4.3,14,3495,60.0,3495.0,handbags,Unknown,48930.0
+17637810,Toteteca,4.8,5,3099,63.0,3099.0,handbags,Unknown,15495.0
+17761230,Caprese,4.1,10,3999,70.0,3999.0,handbags,Unknown,39990.0
+15188034,Metro,4.3,10,1290,,1290.0,handbags,MET███BRA███,12900.0
+21762808,Baggit,4.6,10,1690,50.0,845.0,handbags,Bag███ In███ Pv██████,8450.0
+21421996,Baggit,4.5,40,1990,50.0,995.0,handbags,Bag███ In███ Pv██████,39800.0
+21621752,Berrylush,4.0,111,3299,59.0,1349.0,handbags,AJN███S T███ SO█████████RIV████████████,149739.0
+13359482,FLYING BERRY,4.9,7,2999,44.0,1679.0,handbags,Abh███Ove███as ██████,11753.0
+13389422,DailyObjects,4.3,123,2999,62.0,1139.0,handbags,Fir███Who███ale█████████,140097.0
+13389410,DailyObjects,4.2,30,2999,62.0,1139.0,handbags,Fir███Who███ale█████████Lim██████,34170.0
+19219056,BLAUPUNKT,4.5,11,5999,33.0,3999.0,headphones,Sup███om ███,43989.0
+13474452,Allen Solly,4.3,14,2299,50.0,2299.0,heels,Unknown,32186.0
+17647418,FOOTONS,5.0,2,3199,55.0,3199.0,heels,Unknown,6398.0
+13475738,TRASE,4.0,39,1599,,1599.0,heels,Unknown,62361.0
+22217088,DressBerry,4.1,34,1599,54.0,735.0,heels,KIR███ENT███RIS███,24990.0
+22200396,Bruno Manetti,4.0,5,3999,63.0,1479.0,heels,BRU███SAL███PVT█████████,7395.0
+19217010,Inc 5,4.4,14,2690,,2690.0,heels,INC███SHO███PRI█████████TED███,37660.0
+15120922,Anouk,4.0,25,2699,60.0,1079.0,heels,Fla███ech███tai███,26975.0
+16276014,Iris,4.5,6,700,15.0,595.0,home-fragrance-set,N R███A R███AND█████████ LT███,3570.0
+19014822,mothercare,4.6,7,3499,45.0,2624.0,jackets,Kap███s R███il █████████,18368.0
+19015560,U.S. Polo Assn. Kids,4.5,40,2499,43.0,1424.0,jackets,ARV███ LI███TYL█████████LIM██████,56960.0
+19020502,U.S. Polo Assn.,4.4,338,6299,53.0,2960.0,jackets,ARV███ LI███TYL█████████LIM██████,1000480.0
+19014828,mothercare,4.5,15,2999,25.0,2249.0,jackets,Kap███s R███il █████████,33735.0
+19015652,U.S. Polo Assn. Kids,4.2,19,2799,46.0,1511.0,jackets,ARV███ LI███TYL█████████LIM██████,28709.0
+19020536,U.S. Polo Assn.,4.1,91,6999,50.0,3499.0,jackets,ARV███ LI███TYL█████████LIM██████,318409.0
+19020616,U.S. Polo Assn.,4.3,47,6299,30.0,3149.0,jackets,ARV███ LI███TYL█████████LIM██████,148003.0
+19020478,U.S. Polo Assn.,4.3,150,4599,40.0,2759.0,jackets,Sup███om ███,413850.0
+19020722,U.S. Polo Assn.,4.0,64,5999,50.0,2999.0,jackets,ARV███ LI███TYL█████████LIM██████,191936.0
+19837040,High Star,4.1,41,3749,85.0,3749.0,jackets,Unknown,153709.0
+19020654,U.S. Polo Assn.,4.0,54,6999,40.0,3499.0,jackets,ARV███ LI███TYL█████████LIM██████,188946.0
+14991614,Roadster,4.2,363,1699,50.0,509.0,jackets,GAR███CRY███S L█████████,184767.0
+16182066,People,4.3,71,1799,48.0,935.0,jackets,Wes███ry ███din█████████d_P████████████,66385.0
+19231126,Mast & Harbour,4.2,31,4499,68.0,1439.0,jackets,Tru███m R███il,44609.0
+19020564,U.S. Polo Assn.,4.3,112,5299,50.0,2649.0,jackets,ARV███ LI███TYL█████████LIM██████,296688.0
+19015534,U.S. Polo Assn. Kids,4.1,33,2499,36.0,1599.0,jackets,ARV███ LI███TYL█████████LIM██████,52767.0
+19020450,U.S. Polo Assn.,4.3,96,6499,40.0,3249.0,jackets,ARV███ LI███TYL█████████LIM██████,311904.0
+19020572,U.S. Polo Assn.,4.0,95,5499,40.0,2749.0,jackets,ARV███ LI███TYL█████████LIM██████,261155.0
+11973216,Mast & Harbour,4.0,378,2699,55.0,2699.0,jackets,Unknown,1020222.0
+19020676,U.S. Polo Assn.,4.6,85,5699,45.0,3134.0,jackets,ARV███ LI███TYL█████████LIM██████,266390.0
+19020568,U.S. Polo Assn.,4.2,199,6999,40.0,4199.0,jackets,Sup███om ███,835601.0
+18973692,Levis,4.2,426,4099,57.0,4099.0,jeans,Vis███ St███,1746174.0
+18973742,Levis,4.2,182,4399,48.0,2287.0,jeans,Lev███tra███ In█████████td,416234.0
+18974084,Levis,4.2,135,4399,57.0,1891.0,jeans,Lev███tra███ In█████████td,255285.0
+18873126,KETCH,4.0,20,1749,64.0,629.0,jeans,Sup███om ███,12580.0
+18802522,BEAT LONDON by PEPE JEANS,4.0,20,2799,50.0,1399.0,jeans,Sup███om ███,27980.0
+18973648,Levis,4.2,290,4099,,4099.0,jeans,Lev███tra███ In█████████td,1188710.0
+18973888,Levis,4.4,333,4099,,4099.0,jeans,Vis███ St███,1364967.0
+18973730,Levis,4.1,193,4399,49.0,4399.0,jeans,Vis███ St███,849007.0
+18973948,Levis,4.0,30,4999,30.0,3499.0,jeans,Vis███ St███,104970.0
+19008496,Calvin Klein Jeans,5.0,8,7999,40.0,4799.0,jeans,Pla███um ███hio███,38392.0
+18992754,AMERICAN EAGLE OUTFITTERS,4.8,5,4499,60.0,1799.0,jeans,Wes███ry ███din█████████d_M██████,8995.0
+18973922,Levis,4.1,237,4099,,4099.0,jeans,Vis███ St███,971463.0
+18973950,Levis,4.1,156,4999,51.0,2449.0,jeans,Lev███tra███ In█████████td,382044.0
+19842706,Llak Jeans,4.2,9,2299,75.0,2299.0,jeans,Unknown,20691.0
+13768634,Nautica,4.6,16,4999,,4999.0,jeans,Unknown,79984.0
+18973728,Levis,4.4,260,4399,47.0,4399.0,jeans,Vis███ St███,1143740.0
+18903330,Levis,4.4,235,3299,20.0,1649.0,jeans,Lev███tra███ In█████████td,387515.0
+18973740,Levis,4.3,340,4099,57.0,4099.0,jeans,Vis███ St███,1393660.0
+18969982,Allen Solly Junior,4.2,6,1799,35.0,1169.0,jeans,Wes███ry ███din█████████d_M██████,7014.0
+18734066,Flying Machine,4.1,26,2699,61.0,1052.0,jeans,ARV███ LI███TYL█████████LIM██████,27352.0
+18993370,Blackberrys,4.3,29,3295,40.0,1647.0,jeans,Fla███tar███mme██████,47763.0
+15190770,AMERICAN EAGLE OUTFITTERS,4.0,6,3999,60.0,1599.0,jeans,Wes███ry ███din█████████d_M██████,9594.0
+15067844,Flying Machine,4.1,69,2399,50.0,1199.0,jeans,Ret███Net███,82731.0
+18960434,Lee,4.4,34,3999,55.0,1999.0,jeans,PRA███RET███,67966.0
+18973952,Levis,4.1,329,3499,48.0,3499.0,jeans,Vis███ St███,1151171.0
+18689340,Flying Machine,4.3,36,2349,42.0,1362.0,jeans,ARV███ LI███TYL█████████LIM██████,49032.0
+18973790,Levis,4.3,54,5599,50.0,2799.0,jeans,Lev███tra███ In█████████td,151146.0
+21184968,HERE&NOW,4.6,111,2399,68.0,767.0,jeans,Omn███ch ███ail███,85137.0
+18903148,Levis,4.3,150,3899,20.0,2027.0,jeans,Lev███tra███ In█████████td,304050.0
+18734006,Flying Machine,4.3,42,2499,50.0,1249.0,jeans,Ret███Net███,52458.0
+18928362,AMERICAN EAGLE OUTFITTERS,4.1,9,4499,60.0,1799.0,jeans,Wes███ry ███din█████████d_M██████,16191.0
+18964420,American Bull,4.5,2,4299,62.0,1633.0,jeans,Bra███For███es,3266.0
+18973914,Levis,4.4,243,3799,60.0,2089.0,jeans,Lev███tra███ In█████████td,507627.0
+15049188,Roadster,4.5,50,2099,60.0,692.0,jumpsuit,Tru███t C███erc███,34600.0
+19841310,SHOWOFF,4.0,4,1500,60.0,1500.0,kurtas,Unknown,6000.0
+17760672,Cayman,4.0,11,1345,70.0,1345.0,kurtas,Unknown,14795.0
+17656880,Vishudh,4.4,43,1499,43.0,1499.0,kurtas,Unknown,64457.0
+16186258,Vishudh,4.2,87,1799,79.0,377.0,kurtas,Fla███tar███mme██████,32799.0
+22110424,VASTRADO,5.0,2,1199,55.0,539.0,kurtas,CRE███VE ███MEN█████████E L█████████,1078.0
+18637234,House of Pataudi,4.2,85,2499,,2499.0,kurtas,Unknown,212415.0
+13562488,KSUT,4.3,95,1599,57.0,1599.0,kurtas,Unknown,151905.0
+17644540,Libas,4.2,364,2499,64.0,899.0,kurtas,ZIV███ AP███EL █████████IMI██████,327236.0
+13506804,Ishin,4.1,169,5199,54.0,5199.0,kurtas,Unknown,878631.0
+18637284,House of Pataudi,4.1,34,3999,,3999.0,kurtas,Unknown,135966.0
+19574714,Cayman,4.3,17,5995,50.0,5995.0,kurtas,Unknown,101915.0
+19580226,DEVOILER,4.7,7,2499,55.0,2499.0,kurtas,Unknown,17493.0
+19513786,Desi Mix,4.0,11,400,15.0,400.0,kurtas,Unknown,4400.0
+12524816,HERE&NOW,4.1,937,1199,,1199.0,kurtas,Unknown,1123463.0
+12531668,INDYA,4.4,10,2900,55.0,2900.0,kurtas,Unknown,29000.0
+19688180,KALINI,4.1,11,1499,47.0,1499.0,kurtas,Unknown,16489.0
+19027402,Jompers,4.5,6,3499,75.0,874.0,kurta-sets,IND███ NE███E P█████████MIT███,5244.0
+18925432,Indo Era,4.7,14,5399,74.0,1403.0,kurta-sets,ZEN███R B███D T█████████ PR███████████████,19642.0
+18946592,Indian Virasat,4.3,9,2999,72.0,839.0,kurta-sets,Tra███ion███Exp█████████rat██████,7551.0
+19027352,Jompers,4.2,104,2199,66.0,747.0,kurta-sets,IND███ NE███E -██████,77688.0
+17754514,Indo Era,4.1,91,6799,75.0,1699.0,kurta-sets,ZEN███R B███D T█████████ PR███████████████,154609.0
+19027424,Jompers,4.1,151,2199,66.0,747.0,kurta-sets,IND███ NE███E P█████████MIT███,112797.0
+19027432,Jompers,4.4,35,2999,63.0,1109.0,kurta-sets,IND███ NE███E -██████,38815.0
+15189724,VASTRAMAY,4.2,62,1799,59.0,737.0,kurta-sets,Vas███may███t. ██████,45694.0
+19027420,Jompers,4.0,10,3499,75.0,874.0,kurta-sets,IND███ NE███E P█████████MIT███,8740.0
+14325388,Anouk,4.1,99,2899,,2899.0,kurta-sets,Unknown,287001.0
+17090208,Anouk,4.3,100,3399,,3399.0,kurta-sets,Fla███ech███tai███,339900.0
+13446422,Biba,4.4,749,4995,50.0,2997.0,kurta-sets,Fla███tar███mme██████,2244753.0
+2184914,SUGAR,4.3,76,499,13.0,434.0,lipstick,VEL███TTE███FES█████████LTD███,32984.0
+18273822,Dreamz by Pantaloons,4.5,15,499,2.0,489.0,lounge-shorts,Wes███ry ███din█████████d_P████████████,7335.0
+22492614,U.S. Polo Assn.,4.2,19,699,5.0,664.0,lounge-tshirts,ARV███ LI███TYL█████████LIM██████,12616.0
+13428018,ETC,4.3,189,799,70.0,559.0,lounge-tshirts,Tru███t C███erc███,105651.0
+15898082,Bailey sells,4.6,5,1450,52.0,696.0,nightdress,Nav███Ent███ris███,3480.0
+22721938,Sweet Dreams,4.8,5,999,40.0,999.0,nightdress,Unknown,4995.0
+17832728,Dreamz by Pantaloons,4.9,12,699,47.0,699.0,nightdress,Unknown,8388.0
+17288308,KID1,4.0,16,1499,40.0,1499.0,night-suits,Unknown,23984.0
+18209958,Sweet Dreams,4.1,13,2099,44.0,2099.0,night-suits,Unknown,27287.0
+15973760,Zoom Minimondo,4.8,10,1299,69.0,402.0,night-suits,KCJ███RKE███G P█████████MIT███,4020.0
+16512022,MASQ,4.5,35,447,50.0,223.0,outdoor-masks,Q-ONE,7805.0
+17361920,Indo Era,4.2,23,1799,69.0,557.0,palazzos,ZEN███R B███D T█████████ PR███████████████,12811.0
+17307424,Clora Creation,4.0,3,2399,59.0,983.0,palazzos,Clo███Cre███on,2949.0
+17288460,Cutiekins,4.2,26,1099,59.0,450.0,palazzos,CUT███INS███IVA█████████D,11700.0
+15114984,Go Colors,4.0,53,899,,899.0,palazzos,GO ███HIO███IND█████████ED,47647.0
+15782402,BEARDO,4.4,153,2700,68.0,864.0,perfume-and-body-mist,Omn███ch ███ail███,132192.0
+15294314,Zaveri Pearls,4.4,27,1995,82.0,359.0,ring,ZAV███ PE███S,9693.0
+16254760,Zaveri Pearls,4.2,504,2250,81.0,2250.0,ring,Unknown,1134000.0
+10018911,SEJ by Nisha Gupta,4.5,13,1849,70.0,554.0,runners,SEJ███RNI███NGS█████████LIM██████,7202.0
+10044165,Coolers,4.2,18,799,,799.0,sandals,LIB███Y S███S L█████████,14382.0
+17696210,Yellow Bee,4.0,15,499,15.0,424.0,sandals,Fre███Foc███Con█████████duc███████████████,6360.0
+19183770,Crocs,4.1,21,3295,20.0,2636.0,sandals,Fla███ech███tai███,55356.0
+18949542,Red Chief,4.3,32,3099,50.0,1549.0,sandals,Lea███ Gl███l P█████████,49568.0
+15725544,SALWAR STUDIO,4.1,12,3555,49.0,1813.0,saree-blouse,OM ███THI███,21756.0
+14654046,SALWAR STUDIO,4.4,12,4995,56.0,2197.0,saree-blouse,OM ███THI███,26364.0
+18465340,Silk Land,4.1,15,4125,70.0,4125.0,sarees,Unknown,61875.0
+17292364,Mitera,4.0,18,4199,76.0,1007.0,sarees,AAR███LIF███YLE█████████LIM██████,18126.0
+16287654,Saree mall,4.1,359,4099,75.0,1024.0,sarees,AAR███LIF███YLE█████████LIM████████████,367616.0
+16287830,Saree mall,4.2,12,4099,76.0,983.0,sarees,AAR███LIF███YLE█████████LIM██████,11796.0
+16287764,Saree mall,4.1,129,4799,72.0,1343.0,sarees,AAR███LIF███YLE█████████LIM██████,173247.0
+19823504,VAIRAGEE,4.2,19,9995,83.0,1699.0,sarees,Viv███ In███nat██████,32281.0
+16293500,BELLEZIYA,4.3,3,1249,65.0,437.0,scarves,BEA███ LI███TYL█████████,1311.0
+16293432,BELLEZIYA,4.7,6,1499,65.0,524.0,scarves,BEA███ LI███TYL█████████,3144.0
+14487194,Lotus Botanicals,4.0,45,495,50.0,247.0,shampoo-and-conditioner,Sup███om ███,11115.0
+14472340,Earth Rhythm,4.1,21,379,25.0,284.0,shampoo-and-conditioner,EAR███RHY███ PR█████████ITE███,5964.0
+16779444,FIXDERMA COSMETIC LABORATORIES,4.8,5,1250,,1250.0,shampoo-and-conditioner,Fix███ma ███ia █████████,6250.0
+15880308,Sirona,4.9,7,294,3.0,285.0,shaving-essentials,Sir███ Hy███ne █████████imi██████,1995.0
+17332192,KISAH,4.3,3,13099,62.0,4977.0,sherwani,Kis███App███ls █████████imi██████,14931.0
+18960048,The Indian Garage Co,4.2,128,1749,74.0,507.0,shirts,Tru███t C███erc███,64896.0
+18960188,The Indian Garage Co,4.4,35,1749,74.0,454.0,shirts,THE███DIA███ARA█████████,15890.0
+18960016,The Indian Garage Co,4.0,102,1749,74.0,454.0,shirts,THE███DIA███ARA█████████,46308.0
+18996778,U.S. Polo Assn.,4.2,10,2599,50.0,1559.0,shirts,Sup███om ███,15590.0
+18996772,U.S. Polo Assn.,4.9,10,2799,50.0,1399.0,shirts,ARV███ LI███TYL█████████LIM██████,13990.0
+18960086,The Indian Garage Co,4.5,23,1749,72.0,454.0,shirts,THE███DIA███ARA█████████Y -██████,10442.0
+18971858,Sztori,4.0,43,2699,74.0,701.0,shirts,Sup███om ███,30143.0
+17304036,SPYKAR,4.0,26,2199,60.0,2199.0,shirts,Unknown,57174.0
+17377642,Roadster,4.0,94,1499,50.0,1499.0,shirts,Unknown,140906.0
+18463946,Lee,4.5,15,2399,50.0,2399.0,shirts,Unknown,35985.0
+13621622,U.S. Polo Assn.,4.4,41,2399,,2399.0,shirts,Unknown,98359.0
+17719808,Louis Philippe Jeans,4.5,18,2199,31.0,2199.0,shirts,Unknown,39582.0
+18759238,HERE&NOW,4.3,32,1399,47.0,741.0,shirts,Omn███ch ███ail███,23712.0
+20394602,Cantabil,4.4,38,1999,60.0,1999.0,shirts,Unknown,75962.0
+13672974,WROGN,4.1,250,2599,55.0,2599.0,shirts,Unknown,649750.0
+13694492,Ecentric,4.5,22,2499,35.0,1624.0,shirts,Ece███ic ███ia █████████,35728.0
+21388884,French Connection,4.3,58,2199,70.0,2199.0,shirts,Unknown,127542.0
+13681812,Ecentric,4.0,5,2499,35.0,1624.0,shirts,Ece███ic ███ia █████████,8120.0
+21396820,Jack & Jones,4.4,15,3499,65.0,3499.0,shirts,Unknown,52485.0
+16042682,Nautica,4.2,15,3599,50.0,1799.0,shirts,SAN███ETA███ PV██████,26985.0
+18996754,U.S. Polo Assn.,4.1,9,2599,50.0,1299.0,shirts,ARV███ LI███TYL█████████LIM██████,11691.0
+18927466,U.S. Polo Assn.,4.0,69,2299,50.0,1149.0,shirts,ARV███ LI███TYL█████████LIM██████,79281.0
+17296250,CAVIO,4.3,20,1290,33.0,864.0,shirts,Pun███ Ap███els█████████,17280.0
+17280264,HIGHLANDER,4.2,1246,1199,59.0,491.0,shirts,Fla███tar███mme██████,611786.0
+17355950,Mast & Harbour,4.0,78,1999,74.0,519.0,shirts,Tru███m R███il,40482.0
+17307612,Louis Philippe Jeans,4.3,23,2199,30.0,1539.0,shirts,Ret███Net███,35397.0
+17345842,JC Collection,4.1,12,3499,45.0,1924.0,shirts,Sup███om ███,23088.0
+17354282,JAINISH,4.0,23,999,45.0,549.0,shirts,IND███ NE███E P█████████MIT███,12627.0
+17278954,KETCH,4.0,79,1249,62.0,474.0,shirts,Sup███om ███,37446.0
+17307656,SIMON CARTER LONDON,4.6,5,2799,60.0,1119.0,shirts,Wes███ry ███din█████████d_M██████,5595.0
+17313630,JAINISH,4.1,68,1999,71.0,579.0,shirts,IND███ NE███E P█████████MIT███,39372.0
+17342230,Pepe Jeans,4.3,6,1599,55.0,671.0,shirts,Vis███ St███,4026.0
+17331296,Fabindia,4.4,5,1699,,1699.0,shirts,FAB███IA ███ITE███,8495.0
+17345374,Pepe Jeans,4.0,34,2499,60.0,999.0,shirts,Vis███ St███,33966.0
+17355884,Mast & Harbour,4.1,167,1999,65.0,699.0,shirts,PRE███R A███REL███,116733.0
+17322122,JAINISH,4.0,2,1599,70.0,479.0,shirts,IND███ NE███E P█████████MIT███,958.0
+17293106,DressBerry,4.2,622,1599,59.0,591.0,shirts,Pat███a H███e,367602.0
+17342236,Pepe Jeans,4.4,16,1599,55.0,671.0,shirts,Vis███ St███,10736.0
+17322136,JAINISH,4.0,5,1399,61.0,545.0,shirts,IND███ NE███E P█████████MIT███,2725.0
+17375000,ColorPlus,4.5,15,2399,30.0,1151.0,shirts,Ray███d L███ted███,17265.0
+17289100,Roadster,4.3,7,1899,55.0,854.0,shirts,STR███LIN███PPA█████████ATE█████████,5978.0
+17313676,JAINISH,4.0,11,1499,61.0,584.0,shirts,IND███ NE███E P█████████MIT███,6424.0
+17302022,Pantaloons Junior,4.4,77,799,14.0,687.0,shirts,Wes███ry ███din█████████d_P████████████,52899.0
+17352294,Mast & Harbour,4.0,195,2099,63.0,776.0,shirts,Tru███m R███il,151320.0
+18960146,The Indian Garage Co,4.0,61,1749,74.0,454.0,shirts,THE███DIA███ARA█████████,27694.0
+18970712,Tommy Hilfiger,4.5,10,3299,40.0,1979.0,shirts,PVH███VIN███ASH█████████TE ███████████████,19790.0
+18960126,The Indian Garage Co,4.1,21,1749,74.0,454.0,shirts,Tru███t C███erc███,9534.0
+18970848,Tommy Hilfiger,4.6,14,2799,40.0,1679.0,shirts,PVH███VIN███ASH█████████TE ███████████████,23506.0
+18969276,Ruhaans,4.1,14,1399,54.0,643.0,shirts,SHI███BOA███RAD█████████,9002.0
+13692652,M&H Our Water,4.2,78,2499,,2499.0,shirts,Unknown,194922.0
+13768790,Nautica,4.3,40,3299,50.0,3299.0,shirts,Unknown,131960.0
+13453254,DENNISON,4.6,7,2199,74.0,2199.0,shirts,Unknown,15393.0
+18450788,Nautica,4.3,118,4299,,4299.0,shirts,Unknown,507282.0
+18690268,Dennis Lingo,4.6,5,1999,80.0,1999.0,shirts,Unknown,9995.0
+13770578,Nautica,4.4,53,2799,50.0,2799.0,shirts,Unknown,148347.0
+13675502,Flying Machine,4.1,108,1799,,1799.0,shirts,Unknown,194292.0
+13775106,RARE RABBIT,4.4,63,3299,50.0,3299.0,shirts,Unknown,207837.0
+13470886,Roadster,4.1,203,1399,,1399.0,shirts,Unknown,283997.0
+13722850,Roadster,4.4,39,1999,50.0,999.0,shirts,Tru███t C███erc███,38961.0
+18443082,Marks & Spencer,4.3,19,1999,15.0,1699.0,shirts,Ret███Net███,32281.0
+20042586,Flying Machine,4.4,140,1799,45.0,1799.0,shirts,Unknown,251860.0
+20308616,Arrow,4.0,64,2499,50.0,2499.0,shirts,Unknown,159936.0
+20308496,Arrow,4.3,70,2499,,2499.0,shirts,Unknown,174930.0
+20308670,Arrow,4.7,64,2399,40.0,1199.0,shirts,ARV███ LI███TYL█████████LIM██████,76736.0
+19999300,Dennis Lingo,4.4,16,2499,74.0,2499.0,shirts,Unknown,39984.0
+20308620,Arrow,4.0,59,2499,50.0,2499.0,shirts,Unknown,147441.0
+19276504,Turtle,4.7,7,1399,40.0,839.0,shirts,Tur███ Li███ed,5873.0
+19299798,Louis Philippe,4.4,32,2799,,2519.0,shirts,Ret███Net███,80608.0
+18903374,Levis,4.6,168,2599,45.0,2079.0,shirts,Vis███ St███,349272.0
+18947596,KASSUALLY,4.7,9,1799,67.0,593.0,shorts,Khu███r A███arl███,5337.0
+18946864,Cub McPaws,4.5,20,1499,53.0,699.0,shorts,Poc███uch███Kid█████████,13980.0
+18921438,Gini and Jony,4.6,28,1599,25.0,959.0,shorts,Ret███Net███,26852.0
+13624708,Nike,4.4,376,1795,,1795.0,shorts,Unknown,674920.0
+18645102,DChica,4.3,16,599,53.0,599.0,shorts,Unknown,9584.0
+13695234,HRX by Hrithik Roshan,4.4,150,1499,30.0,1049.0,shorts,Omn███ch ███ail███,157350.0
+13610026,HRX by Hrithik Roshan,4.2,84,1899,40.0,1139.0,shorts,Omn███ch ███ail███,95676.0
+14561272,ASICS,5.0,5,2299,50.0,1149.0,shorts,Spo███ IQ███,5745.0
+14494548,CUTECUMBER,4.3,11,650,,650.0,shorts,CUT███MBE███ESI█████████TD,7150.0
+14496210,CUTECUMBER,4.6,46,650,,650.0,shorts,CUT███MBE███ESI█████████TD,29900.0
+18942852,FITINC,4.4,14,999,55.0,449.0,shorts,Fit███ Ap███els█████████Lim██████,6286.0
+18650484,CLUB A9,4.5,14,699,54.0,321.0,shorts,ADI███ AP███ELS███,4494.0
+19024468,Blackberrys,4.1,9,1695,40.0,1017.0,shorts,Moh███Clo███ng █████████Ltd███,9153.0
+17332648,Tommy Hilfiger,4.7,9,2999,40.0,1499.0,shorts,Fla███ech███tai███,13491.0
+15177608,HRX by Hrithik Roshan,4.5,61,1399,30.0,979.0,shorts,Omn███ch ███ail███,59719.0
+18947600,KASSUALLY,4.7,38,1899,66.0,645.0,shorts,Khu███r A███arl█████████,24510.0
+18658050,Allen Solly,4.6,13,1799,40.0,1079.0,shorts,Wes███ry ███din█████████d_M██████,14027.0
+13572038,Shae by SASSAFRAS,4.3,51,1999,60.0,799.0,skirts,ARD███ Re███l C███,40749.0
+17367638,Berrylush,4.3,16,1199,26.0,983.0,skirts,AJN███S T███ SO█████████RIV████████████,15728.0
+17306258,Purple Feather,4.2,81,1499,71.0,434.0,skirts,RD ███ERP███ES,35154.0
+17367634,Berrylush,4.3,43,1399,74.0,363.0,skirts,Sup███om ███,15609.0
+17745816,Lancer,4.0,6,1999,40.0,1999.0,sports-shoes,Unknown,11994.0
+13686682,Campus,4.1,452,799,6.0,751.0,sports-shoes,CAM███ AC███EWE█████████D,339452.0
+10667394,Campus,4.1,35,1499,37.0,944.0,sports-shoes,CAM███ AC███EWE█████████D,33040.0
+20071104,ADIDAS,4.5,149,4299,,2794.0,sports-shoes,Fla███tar███mme██████,416306.0
+20072084,ADIDAS,4.1,22,5999,,3599.0,sports-shoes,Fla███tar███mme██████,79178.0
+20071558,ADIDAS,4.1,231,3599,,2339.0,sports-shoes,Fla███tar███mme██████,540309.0
+20071402,ADIDAS,4.5,149,4599,,4599.0,sports-shoes,Fla███tar███mme██████,685251.0
+20070948,ADIDAS,4.1,52,5999,,5999.0,sports-shoes,Fla███tar███mme██████,311948.0
+20070966,ADIDAS,4.2,36,4799,,2879.0,sports-shoes,Fla███tar███mme██████,103644.0
+20071236,ADIDAS,4.3,57,5299,,5299.0,sports-shoes,Fla███tar███mme██████,302043.0
+14208408,TRASE,4.2,20,999,,999.0,sports-shoes,Unknown,19980.0
+11441718,Duke,4.2,50,2695,75.0,2695.0,sports-shoes,Unknown,134750.0
+11627996,Yuuki,4.2,56,2999,67.0,2999.0,sports-shoes,Unknown,167944.0
+11986876,FAUSTO,4.3,9,899,1.0,899.0,sports-shoes,Unknown,8091.0
+19334942,ELEVAR,4.3,6,5490,,5490.0,sports-shoes,Unknown,32940.0
+13484354,Puma,4.3,19,12999,,12999.0,sports-shoes,Pum███por███Ind█████████td.█████████,246981.0
+11960808,Campus,4.2,76,1499,56.0,659.0,sports-shoes,CAM███ AC███EWE█████████D,50084.0
+19102564,Puma,4.3,58,11999,25.0,11999.0,sports-shoes,Omn███ch ███ail███,695942.0
+19402102,U.S. Polo Assn.,4.0,124,4999,50.0,4999.0,sports-shoes,Unknown,619876.0
+14208394,TRASE,4.5,13,999,,999.0,sports-shoes,Unknown,12987.0
+16880520,PUMA Hoops,4.1,24,8999,55.0,4049.0,sports-shoes,Sup███om ███,97176.0
+18356356,Nautica,4.4,109,5499,60.0,2199.0,sports-shoes,Tru███t C███erc███,239691.0
+18906230,Skechers,4.5,127,7499,40.0,4499.0,sports-shoes,Sup███om ███,571373.0
+18373464,ADIDAS,4.1,113,3599,,3599.0,sports-shoes,Fla███tar███mme██████,406687.0
+16824638,Puma,4.3,14,9999,50.0,4999.0,sports-shoes,Pum███por███Ind█████████td.█████████,69986.0
+18374802,ADIDAS,4.5,21,12999,,12999.0,sports-shoes,Fla███tar███mme██████,272979.0
+16824670,Puma,4.1,31,9999,45.0,5499.0,sports-shoes,Omn███ch ███ail███,170469.0
+18374286,ADIDAS,4.2,22,5999,,3599.0,sports-shoes,Fla███tar███mme██████,79178.0
+18373646,ADIDAS,4.3,319,3799,35.0,2469.0,sports-shoes,Fla███tar███mme██████,787611.0
+18373380,ADIDAS,4.2,73,4799,35.0,3119.0,sports-shoes,Fla███tar███mme██████,227687.0
+16864474,Puma,5.0,3,6999,20.0,5599.0,sports-shoes,Pum███por███Ind█████████td.█████████,16797.0
+18374978,ADIDAS,4.4,94,4999,,3249.0,sports-shoes,Fla███tar███mme██████,305406.0
+18906226,Skechers,4.4,93,6499,40.0,3899.0,sports-shoes,Sup███om ███,362607.0
+18374614,ADIDAS,4.3,11,18999,25.0,14249.0,sports-shoes,Fla███tar███mme██████,156739.0
+16305908,Campus,4.3,23,1399,10.0,1259.0,sports-shoes,CAM███ AC███EWE█████████D,28957.0
+16279696,Forever Glam by Pantaloons,4.3,6,1699,38.0,1053.0,sports-shoes,Wes███ry ███din█████████d_P████████████,6318.0
+13072098,Puma,4.7,7,4499,45.0,2474.0,sports-shoes,Omn███ch ███ail███,17318.0
+19298764,Campus,4.6,71,1299,10.0,909.0,sports-shoes,Ret███Net███,64539.0
+18430170,Roadster,4.3,64,1499,47.0,1499.0,sweaters,Unknown,95936.0
+10349091,Monte Carlo,4.6,9,2840,,1420.0,sweaters,Fla███ech███tai███,12780.0
+10135715,Mast & Harbour,4.0,213,1599,68.0,511.0,sweaters,Tru███m R███il,108843.0
+21296678,Marks & Spencer,4.6,22,3999,60.0,3399.0,sweaters,Ret███Net███,74778.0
+20721298,Juniors by Lifestyle,4.7,9,599,35.0,599.0,sweaters,Unknown,5391.0
+19432310,Marks & Spencer,4.2,14,3999,60.0,3999.0,sweaters,Unknown,55986.0
+11843058,MANGO,4.3,9,2590,25.0,2590.0,sweaters,Unknown,23310.0
+20712132,Trendyol,4.4,5,3599,10.0,3599.0,sweaters,Unknown,17995.0
+11990920,Roadster,4.3,179,1699,58.0,1699.0,sweaters,Unknown,304121.0
+19055422,Monte Carlo,4.2,18,2080,40.0,2080.0,sweaters,Unknown,37440.0
+14335776,INVICTUS,4.0,345,2199,35.0,2199.0,sweaters,Unknown,758655.0
+11990978,Roadster,4.4,302,1999,61.0,1999.0,sweaters,Unknown,603698.0
+11972948,Mast & Harbour,4.1,213,1599,,1599.0,sweaters,Unknown,340587.0
+11990952,Roadster,4.3,449,1699,61.0,1699.0,sweaters,Unknown,762851.0
+14279412,Harvard,4.2,47,1899,61.0,1899.0,sweaters,Unknown,89253.0
+18241626,Roadster,4.5,25,1699,62.0,645.0,sweaters,Tru███t C███erc███,16125.0
+18241644,Roadster,4.3,55,1999,62.0,759.0,sweaters,Tru███t C███erc███,41745.0
+18240570,all about you,4.3,53,2499,65.0,874.0,sweaters,Vis███ St███,46322.0
+18240582,all about you,4.4,39,2499,65.0,874.0,sweaters,Vis███ St███,34086.0
+18337610,Roadster,4.3,32,2299,67.0,758.0,sweaters,Tru███t C███erc███,24256.0
+18240902,Mr Bowerbird,4.0,31,3299,64.0,1187.0,sweaters,Tru███t C███erc███,36797.0
+18241294,Roadster,4.3,90,1699,5.0,628.0,sweaters,Tru███t C███erc███,56520.0
+18180102,INVICTUS,4.0,45,1698,35.0,1103.0,sweaters,Fla███tar███mme██████,49635.0
+18241298,Roadster,4.3,59,1999,70.0,699.0,sweaters,Tru███t C███erc███,41241.0
+18260104,Mast & Harbour,4.5,62,2399,66.0,815.0,sweaters,Tru███m R███il,50530.0
+18820948,Tommy Hilfiger,4.3,24,5599,40.0,5599.0,sweatshirts,Unknown,134376.0
+18825046,Tommy Hilfiger,4.2,29,4599,40.0,4599.0,sweatshirts,Unknown,133371.0
+18929548,Mast & Harbour,4.4,79,1599,52.0,1599.0,sweatshirts,Unknown,126321.0
+9867517,ether,4.1,416,1299,50.0,1299.0,sweatshirts,Unknown,540384.0
+6510138,Roadster,4.3,959,1999,50.0,1999.0,sweatshirts,Unknown,1917041.0
+18071360,ether,4.2,84,1399,,1399.0,sweatshirts,Unknown,117516.0
+18825178,Tommy Hilfiger,4.3,37,4999,40.0,4999.0,sweatshirts,Unknown,184963.0
+18830500,White Snow,4.2,10,1599,60.0,1599.0,sweatshirts,Unknown,15990.0
+9656079,Sztori,4.2,294,2499,50.0,2499.0,sweatshirts,Unknown,734706.0
+20389784,SPYKAR,4.6,9,2999,55.0,2999.0,sweatshirts,Unknown,26991.0
+18820780,Tommy Hilfiger,4.0,35,4999,40.0,4999.0,sweatshirts,Unknown,174965.0
+18820580,Tommy Hilfiger,4.2,33,5599,40.0,5599.0,sweatshirts,Unknown,184767.0
+20389690,max,4.0,8,699,20.0,699.0,sweatshirts,Unknown,5592.0
+10388101,Allen Solly Woman,4.5,4,1799,50.0,899.0,sweatshirts,Wes███ry ███din█████████d_M██████,3596.0
+17121312,Marks & Spencer,4.5,30,2499,60.0,2249.0,swim-tops,Ret███Net███,67470.0
+17844560,DREAM WEAVERZ,4.1,7,999,50.0,999.0,table-covers,Unknown,6993.0
+1605539,Kanvin,4.0,76,799,23.0,615.0,thermal-bottoms,K A███POR███PVT██████,46740.0
+18937628,her by invictus,4.2,29,1398,66.0,475.0,tops,Sup███om ███,13775.0
+18990292,HILL STREET,4.5,15,1699,65.0,594.0,tops,HIL███TRE███LIF█████████,8910.0
+18972748,Zink London,4.3,7,1499,65.0,524.0,tops,FRE███ GL███L P█████████MIT███,3668.0
+18904492,Levis,4.4,50,2099,20.0,1133.0,tops,Lev███tra███ In█████████td,56650.0
+13583566,Chemistry,4.5,20,1499,,1499.0,tops,Unknown,29980.0
+13611204,Roadster,4.2,266,1889,58.0,1889.0,tops,Unknown,502474.0
+18657642,max,4.5,6,399,10.0,399.0,tops,Unknown,2394.0
+13573344,Roadster,4.0,280,699,,699.0,tops,Unknown,195720.0
+20222156,CODE by Lifestyle,4.1,47,799,30.0,799.0,tops,Unknown,37553.0
+20222142,CODE by Lifestyle,4.5,40,499,25.0,499.0,tops,Unknown,19960.0
+20092320,Forever New,4.4,26,3200,65.0,3200.0,tops,Unknown,83200.0
+20222144,CODE by Lifestyle,4.0,10,1599,40.0,1599.0,tops,Unknown,15990.0
+14538300,Friskers,4.0,10,499,24.0,379.0,tops,Fly███,3790.0
+18639246,Jockey,4.5,139,329,,329.0,tops,Unknown,45731.0
+17763368,Honey by Pantaloons,4.0,7,1299,58.0,1299.0,tops,Unknown,9093.0
+17628058,Maishi,4.6,7,1599,64.0,1599.0,tops,Unknown,11193.0
+17628394,ONLY,4.2,25,2499,65.0,2499.0,tops,Unknown,62475.0
+17178948,FOREVER 21,4.4,11,1049,50.0,524.0,tops,Wes███ry ███din█████████d_M██████,5764.0
+17108574,4WRD by Dressberry,4.2,68,1199,64.0,431.0,tops,Sup███om ███,29308.0
+18879656,MANGO,4.3,165,1990,37.0,1990.0,tops,Unknown,328350.0
+18626976,ONLY,4.2,78,2299,65.0,2299.0,tops,Unknown,179322.0
+19018090,DressBerry,4.1,102,799,,799.0,tops,Unknown,81498.0
+17121092,Marks & Spencer,4.0,16,2999,60.0,2999.0,tops,Unknown,47984.0
+19018146,DressBerry,4.0,110,899,56.0,899.0,tops,Unknown,98890.0
+17268524,H&M,4.4,203,699,25.0,699.0,tops,Unknown,141897.0
+18854764,KAMI KUBI,5.0,4,1299,62.0,1299.0,tops,Unknown,5196.0
+18904472,Levis,4.4,44,2299,57.0,1839.0,tops,Vis███ St███,80916.0
+17255462,NEUDIS,4.3,71,1499,54.0,1499.0,tops,Unknown,106429.0
+17120826,Hancock,4.1,52,1999,60.0,1999.0,tops,Unknown,103948.0
+18814970,Berrylush,4.6,75,1299,62.0,1299.0,tops,Unknown,97425.0
+17257582,FableStreet,4.2,37,1795,45.0,1795.0,tops,Unknown,66415.0
+17255498,NEUDIS,4.1,44,1499,54.0,1499.0,tops,Unknown,65956.0
+22747068,Madame,4.0,5,1399,60.0,1399.0,tops,Vis███ St███,6995.0
+19017944,DressBerry,4.1,94,799,,799.0,tops,Unknown,75106.0
+17114132,HERE&NOW,4.1,51,999,,999.0,tops,Unknown,50949.0
+18948348,Madame,4.2,11,1899,60.0,1899.0,tops,Unknown,20889.0
+17944580,ONLY,4.2,76,2299,65.0,2299.0,tops,Unknown,174724.0
+20383782,Chemistry,4.5,17,1299,,1299.0,tops,Unknown,22083.0
+17938374,CODE by Lifestyle,4.4,17,999,30.0,999.0,tops,Unknown,16983.0
+8675767,MANGO,4.2,15,3490,55.0,3490.0,tops,Unknown,52350.0
+17973634,InWeave,4.4,21,2199,75.0,2199.0,tops,Unknown,46179.0
+7117598,ONLY,4.2,40,1499,,1499.0,tops,Unknown,59960.0
+18847712,KALINI,4.4,9,1975,70.0,1975.0,tops,Unknown,17775.0
+8365569,Nun,4.9,14,1495,70.0,1495.0,tops,Unknown,20930.0
+7581747,Annabelle by Pantaloons,4.3,50,899,25.0,899.0,tops,Unknown,44950.0
+9818669,Globus,4.3,8,999,60.0,999.0,tops,Unknown,7992.0
+8367605,Berrylush,4.3,93,1290,62.0,1290.0,tops,Unknown,119970.0
+7183090,Globus,4.2,29,1299,69.0,1299.0,tops,Unknown,37671.0
+9557519,MANGO,5.0,1,2490,35.0,2490.0,tops,Unknown,2490.0
+17976710,MANGO,4.1,36,3590,,3590.0,tops,Unknown,129240.0
+14340794,MANGO,4.1,82,2390,27.0,2390.0,tops,Unknown,195980.0
+19410570,H&M,4.3,44,1499,25.0,1499.0,tops,Unknown,65956.0
+11811068,Honey by Pantaloons,4.4,15,999,35.0,999.0,tops,Unknown,14985.0
+7829467,Oxolloxo,4.0,5,1399,58.0,1399.0,tops,Unknown,6995.0
+17982570,H&M,4.5,52,999,25.0,999.0,tops,Unknown,51948.0
+17950338,PURVAJA,4.2,16,2199,81.0,2199.0,tops,Unknown,35184.0
+11876926,AND,4.4,57,1999,80.0,1999.0,tops,Unknown,113943.0
+11538822,Ajile by Pantaloons,4.2,17,599,8.0,599.0,tops,Unknown,10183.0
+7326508,MISH,4.7,25,1499,45.0,1499.0,tops,Unknown,37475.0
+586846,Cation,4.5,11,899,40.0,899.0,tops,Unknown,9889.0
+18000968,Harpa,4.4,21,1049,48.0,1049.0,tops,Unknown,22029.0
+18962100,Nike,4.4,72,2495,,2495.0,tops,Nik███ndi███riv█████████ed,179640.0
+18974594,SPACES,4.3,16,3799,70.0,1139.0,towel-set,Omn███ch ███ail███,18224.0
+18974634,AUSTIVO,4.5,35,1899,60.0,759.0,track-pants,FAS███N S███TS,26565.0
+18970176,Allen Solly Junior,4.6,30,1599,62.0,1039.0,track-pants,Wes███ry ███din█████████d_M██████,31170.0
+18138806,max,4.6,28,599,20.0,599.0,track-pants,Unknown,16772.0
+18670518,max,4.9,8,599,20.0,599.0,track-pants,Unknown,4792.0
+17628782,Roadster,4.1,81,1999,,1999.0,track-pants,Unknown,161919.0
+17628712,Roadster,4.3,65,1799,,1799.0,track-pants,Unknown,116935.0
+18537496,Bannos Swagger,5.0,5,1699,76.0,1699.0,track-pants,Unknown,8495.0
+18970196,Allen Solly Junior,4.3,12,1499,30.0,749.0,track-pants,Wes███ry ███din█████████d_M██████,8988.0
+18970104,Allen Solly Junior,4.8,14,1499,50.0,749.0,track-pants,Wes███ry ███din█████████d_M██████,10486.0
+17663904,Pantaloons Junior,4.6,25,849,22.0,849.0,trousers,Unknown,21225.0
+17760062,H&M,4.2,608,1499,25.0,1499.0,trousers,Unknown,911392.0
+17647372,bebe,4.2,38,2899,,2899.0,trousers,Unknown,110162.0
+17760038,H&M,4.3,128,1299,25.0,1299.0,trousers,Unknown,166272.0
+19289426,Van Heusen Woman,4.1,13,2499,5.0,1224.0,trousers,Wes███ry ███din█████████d_M██████,15912.0
+10019547,XYXX,4.7,9,1197,14.0,1029.0,trunk,XYX███PPA███S P█████████MIT███,9261.0
+10591036,Van Heusen,4.5,65,529,,529.0,trunk,Wes███ry ███din█████████d_M██████,34385.0
+20042464,XYXX,4.2,18,339,24.0,257.0,trunk,XYX███PPA███S P█████████MIT███,4626.0
+17352320,ether,4.4,70,1099,47.0,1099.0,tshirts,Unknown,76930.0
+17403950,Mast & Harbour,4.2,200,899,,899.0,tshirts,Tru███m R███il,179800.0
+8901821,UNDER ARMOUR,4.3,64,1999,,1999.0,tshirts,Unknown,127936.0
+18817326,Tommy Hilfiger,4.4,58,2799,40.0,2799.0,tshirts,Unknown,162342.0
+8426447,WROGN,4.2,514,1599,50.0,1599.0,tshirts,Unknown,821886.0
+20355284,Roadster,4.2,74,999,53.0,999.0,tshirts,Unknown,73926.0
+18818696,Tommy Hilfiger,4.4,58,1999,40.0,1999.0,tshirts,Unknown,115942.0
+9213113,Roadster,4.1,994,799,50.0,799.0,tshirts,Unknown,794206.0
+13511732,Puma,4.4,167,3999,,3999.0,tshirts,Unknown,667833.0
+13615634,U.S. Polo Assn.,4.5,69,1699,40.0,1699.0,tshirts,Unknown,117231.0
+13620624,Roadster,4.0,154,1399,73.0,1399.0,tshirts,Unknown,215446.0
+13502414,Puma,4.3,327,1499,,1499.0,tshirts,Unknown,490173.0
+13621134,Roadster,4.1,312,1399,50.0,1399.0,tshirts,Unknown,436488.0
+17686030,Allen Solly Tribe,4.3,23,1499,30.0,1499.0,tshirts,Unknown,34477.0
+13616400,Arrow New York,4.8,13,899,25.0,674.0,tshirts,Unknown,8762.0
+13480864,Aeropostale,4.2,13,1199,,1199.0,tshirts,Unknown,15587.0
+13622338,Roadster,4.4,54,899,55.0,404.0,tshirts,MAI███ KN███EAR███,21816.0
+16277914,Parx,4.9,7,1399,53.0,699.0,tshirts,Ray███d L███ted███,4893.0
+16292318,Bewakoof,4.2,17,1399,60.0,549.0,tshirts,Bew███of ███nds█████████Lim██████,9333.0
+19201678,Tokyo Talkies,4.1,103,699,58.0,293.0,tshirts,Vis███ St███,30179.0
+16923916,Monte Carlo,4.8,13,835,25.0,835.0,tshirts,Unknown,10855.0
+20085320,BULLMER,4.8,12,3998,80.0,799.0,tshirts,Bod███ove███par█████████,9588.0
+12987894,AMERICAN EAGLE OUTFITTERS,4.4,5,1799,80.0,359.0,tshirts,Wes███ry ███din█████████d_M██████,1795.0
+12953958,Allen Solly,4.4,409,999,40.0,599.0,tshirts,Wes███ry ███din█████████d_M██████,244991.0
+22629260,max,4.4,7,799,40.0,479.0,tshirts,Lan███rk ███ine█████████t L███,3353.0
+19291812,Mad Over Print,4.8,5,1599,58.0,671.0,tshirts,MAD███R P███T P█████████MIT███,3355.0
+19206288,FERANOID,4.2,21,1199,50.0,599.0,tshirts,Fer███id,12579.0
+19264534,Flying Machine,4.0,102,999,61.0,389.0,tshirts,ARV███ LI███TYL█████████LIM██████,39678.0
+16287616,Juniper,4.3,346,1299,51.0,636.0,tunics,AMA███XPO███ IN█████████AL █████████,220056.0
+16287462,Juniper,4.3,335,1299,43.0,740.0,tunics,AMA███XPO███ IN█████████AL,247900.0
+16293014,Nayo,4.2,514,1199,43.0,683.0,tunics,Bhu███E R███il █████████,351062.0
+16293018,Nayo,4.3,687,1199,43.0,683.0,tunics,Bhu███E R███il █████████,469221.0
+17716590,Tommy Hilfiger,4.5,39,4299,40.0,4299.0,wallets,Unknown,167661.0
+9452773,Louis Philippe,4.3,401,1799,25.0,1799.0,wallets,Unknown,721399.0
+18864968,Lavie,4.4,21,1999,65.0,1999.0,wallets,Unknown,41979.0
+9029979,Hidesign,4.4,8,2595,,2595.0,wallets,Unknown,20760.0
+16295388,LOUIS STITCH,4.4,10,4200,75.0,1050.0,wallets,Gun███al ███tch█████████E L█████████,10500.0
+17981742,MVMT,4.5,11,20832,50.0,10416.0,watches,Sup███om ███,114576.0
+17697474,Timex,4.9,8,1995,20.0,1596.0,watches,TIM███T R███IL █████████RIV████████████,12768.0
+8076639,French Connection,4.4,563,6250,60.0,6250.0,watches,Unknown,3518750.0
+21948792,Adwitiya Collection,4.1,7,9709,72.0,9709.0,watches,Unknown,67963.0
+2466414,Daniel Klein,4.4,940,6950,53.0,3266.0,watches,DES███ER ███GRE█████████IA ██████,3070040.0
+11791782,CASIO,4.6,29,3595,10.0,3235.0,watches,Fla███ech███tai███,93815.0
+19322504,V2A,4.0,6,1599,50.0,799.0,watches,Br ███erp███es,4794.0
+8481603,French Connection,4.5,149,6250,70.0,6250.0,watches,Unknown,931250.0
+16896006,GUESS,5.0,22,8900,45.0,8900.0,watches,Unknown,195800.0
+19280114,Fastrack,4.3,17,3295,20.0,2636.0,watches,Tru███m R███il,44812.0
