@@ -1,5 +1,5 @@
 
-# Ecommerce Data Cleaning - Python & Pandas Assignment
+#ASSIGMENT 1 - Ecommerce Data Cleaning - Python & Pandas Assignment
 
 ## Objective
 Learn Python basics and perform basic data exploration and cleaning using Pandas.
@@ -31,3 +31,33 @@ was used as a proxy for quantity to calculate total_amount.
 - Missing values handled: Yes
 - Duplicates removed: Yes
 - Derived column created: total_amount = final_price × ratings_count
+
+- 
+## ASSIGNMENT 2 - SQL Sales Analysis
+
+### Objective
+Analyze sales data using SQL with filtering, aggregation, and business queries.
+
+### Dataset
+- Source: Kaggle - Superstore Dataset
+- File used: Sample - Superstore.csv (9994 records)
+
+### Steps Performed
+1. Loaded dataset into SQLite database
+2. Explored table schema and sample data
+3. Applied WHERE filters (region, category, date, sales)
+4. Used GROUP BY for aggregations (sales, quantity, averages)
+5. Sorted and limited results (top products, top categories)
+6. Solved business use cases (monthly trends, top customers, duplicates)
+7. Validated results (row counts, NULL checks)
+
+### Key Insights
+- West region has highest total sales
+- Technology category generates most revenue
+- Peak sales observed in Q4 months
+- Top customers contribute significantly to overall revenue
+- Duplicate Order IDs exist because one order has multiple products
+- No NULL values in Sales, Region, or Category columns
+
+### Output
+- sql_sales_analysis.ipynb (Jupyter Notebook)
