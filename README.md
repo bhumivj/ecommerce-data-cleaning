@@ -61,3 +61,16 @@ Analyze sales data using SQL with filtering, aggregation, and business queries.
 
 ### Output
 - sql_sales_analysis.ipynb (Jupyter Notebook)
+
+## Assignment 3: SQL Analysis - Subqueries, CTEs, and Window Functions
+
+- Dataset: Superstore Sales Data
+- Tools: Python, SQLite, Pandas (Google Colab)
+- Notebook: [superstore_sql_analysis.ipynb](./superstore_sql_analysis.ipynb)
+
+### Topics Covered
+- Subqueries (above average sales, highest order per customer)
+- CTEs (total sales per customer, above average customers)
+- Window Functions (RANK, ROW_NUMBER, PARTITION BY)
+- Final Combined Query (JOIN + CTE + Window Function)
+- Mini Project: Customer Sales Insights (Top 5, Bottom 5, Single order customers)
