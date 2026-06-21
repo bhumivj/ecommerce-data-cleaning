@@ -141,3 +141,36 @@ IAM/RBAC for access control — built from zero prior cloud knowledge.
   Get Metadata and Copy activities
 - Pipeline executed successfully; file copied to destination container
 - IAM/RBAC roles configured for secure access management
+
+---
+
+## Assignment 5: Apache Spark - Data Cleaning & Aggregation (PySpark)
+
+### Objective
+Learn Apache Spark fundamentals and perform data cleaning, transformation, and aggregation using PySpark DataFrames.
+
+### Dataset
+Custom-generated dataset (12 rows, 17 columns) covering customer, transaction, and store information. Includes intentional duplicates and null values to demonstrate cleaning operations.
+
+### Steps Performed
+1. Created SparkSession and loaded dataset into DataFrame
+2. Removed duplicate rows
+3. Handled null values (fill/drop strategies)
+4. Applied filters (age range, category, region, subscription)
+5. Renamed and cast columns (schema transformation)
+6. Performed aggregations (count, sum, avg, min, max)
+7. Grouped data by category, region, city, store_id
+8. Built a final end-to-end pipeline (dedupe → fill nulls → group → aggregate)
+
+### Key Observations
+- groupBy operations trigger Shuffle — most expensive part of any Spark pipeline
+- Filtering before aggregation improves efficiency
+- Null handling before aggregation prevents skewed results
+
+### Tools Used
+- Google Colab, PySpark 3.x
+
+### Files
+- `spark-assignment/Data/dataset.csv`
+- `spark-assignment/Notebook/spark_basics.ipynb`
+- `spark-assignment/Output/results.csv`
