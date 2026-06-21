@@ -1,0 +1,13 @@
+customer_id,user_id,name,transaction_date,age,category,region,amount,price,quantity,subscription,email,username,city,store_id,status,raw_timestamp
+1,U001,Amit,2024-01-05,25.0,Electronics,North,5000.0,5000.0,2,Premium,amit@mail.com,amit01,Delhi,S001,Active,2024-01-05 10:30:00
+2,U002,Priya,2024-01-10,30.0,Clothing,South,1500.0,1500.0,3,Basic,priya@mail.com,priya02,Mumbai,S002,Inactive,2024-01-10 14:20:00
+3,U003,Rahul,2024-02-15,22.0,Electronics,East,3000.0,3000.0,1,Premium,rahul@mail.com,rahul03,Chennai,S001,,2024-02-15 09:15:00
+4,U004,Sneha,2024-02-20,35.0,Food,West,800.0,800.0,5,Free,,sneha04,Pune,S003,Active,2024-02-20 16:45:00
+5,U005,Vikas,2024-03-01,28.0,Clothing,North,1200.0,1200.0,2,Premium,vikas@mail.com,,Delhi,S002,Active,2024-03-01 11:00:00
+6,U006,Pooja,2024-03-10,,Food,South,,,1,Basic,pooja@mail.com,pooja06,Mumbai,S001,,2024-03-10 13:30:00
+7,U007,Arjun,2024-04-05,40.0,Electronics,East,7000.0,7000.0,3,Free,arjun@mail.com,arjun07,Chennai,S003,Inactive,2024-04-05 08:50:00
+8,U008,Divya,2024-04-15,19.0,Clothing,West,950.0,950.0,4,Premium,divya@mail.com,divya08,Pune,S002,Active,2024-04-15 17:10:00
+9,U009,Ravi,2024-05-01,33.0,Food,North,600.0,600.0,2,Basic,ravi@mail.com,ravi09,Delhi,S001,Active,2024-05-01 12:25:00
+10,U010,Meera,2024-05-20,27.0,Electronics,South,4500.0,4500.0,1,Premium,meera@mail.com,meera10,Mumbai,S003,Inactive,2024-05-20 15:40:00
+2,U002,Priya,2024-01-10,30.0,Clothing,South,1500.0,1500.0,3,Basic,priya@mail.com,priya02,Mumbai,S002,Inactive,2024-01-10 14:20:00
+5,U005,Vikas,2024-03-01,28.0,Clothing,North,1200.0,1200.0,2,Premium,vikas@mail.com,vikas05,Delhi,S002,Active,2024-03-01 11:00:00
