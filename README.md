@@ -174,3 +174,30 @@ Custom-generated dataset (12 rows, 17 columns) covering customer, transaction, a
 - `spark-assignment/Data/dataset.csv`
 - `spark-assignment/Notebook/spark_basics.ipynb`
 - `spark-assignment/Output/results.csv`
+
+# Week 6 - PySpark: Spark Architecture & Data Processing
+
+## Overview
+Focuses on understanding Spark architecture and performing efficient data processing using PySpark — covering both theoretical concepts and hands-on coding tasks.
+
+## Tools & Environment
+- Platform: Google Colab
+- Language: Python 3
+- Library: PySpark 4.0.3
+
+## Key Concepts
+- Spark Architecture: Driver, Cluster Manager, Executors
+- Lazy Evaluation and DAG Lineage Graph
+- Transformations vs Actions
+- CSV vs Parquet: storage and performance comparison
+- Predicate Pushdown and Shuffle
+- Client Mode vs Cluster Mode
+
+## Operations Performed
+- SparkSession setup with sample dataset creation
+- Reading CSV and Parquet files with schema handling
+- DataFrame filtering, column selection, renaming, casting, and new column addition
+- Null value handling and data pipeline: read → transform → filter → write
+
+## File
+- `week6_pyspark_assignment.ipynb` — contains all coding solutions and theory explanations
