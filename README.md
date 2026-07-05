@@ -175,7 +175,7 @@ Custom-generated dataset (12 rows, 17 columns) covering customer, transaction, a
 - `spark-assignment/Notebook/spark_basics.ipynb`
 - `spark-assignment/Output/results.csv`
 
-# Week 6 - PySpark: Spark Architecture & Data Processing
+#Week 6 - PySpark: Spark Architecture & Data Processing
 
 ## Overview
 Focuses on understanding Spark architecture and performing efficient data processing using PySpark — covering both theoretical concepts and hands-on coding tasks.
@@ -201,3 +201,44 @@ Focuses on understanding Spark architecture and performing efficient data proces
 
 ## File
 - `week6_pyspark_assignment.ipynb` — contains all coding solutions and theory explanations
+
+
+# Week 7 - Delta Lake: Incremental Data Processing & MERGE Operations
+
+## Overview
+
+Handling incremental data in Delta Lake — loading new/changed records and
+syncing them into an existing Delta table using MERGE, instead of reloading
+the full dataset every time.
+
+## Tools & Environment
+Platform: Databricks
+Language: Python 3 (PySpark)
+Library: Delta Lake (delta-spark)
+
+
+## Key Concepts
+
+Delta Lake vs Parquet/CSV: ACID transactions, schema enforcement
+Incremental Load vs Full Load
+MERGE (Upsert): update matched rows, insert unmatched rows in one step
+Deduplication before merge (on key column)
+
+
+## Operations Performed
+
+Loaded CSV into Spark DataFrame, cleaned nulls and duplicates
+Saved cleaned data as a Delta table (target)
+Created incremental dataset — modified records + one new record
+Saved incremental dataset as a separate Delta table
+MERGE: matched Order_ID → update Sales/Profit; new Order_ID → insert
+Validated with row counts and duplicate checks
+
+
+## Known Limitation
+MERGE insert only maps Order_ID, Sales, Profit — other columns are NULL
+for new rows.
+
+
+## Files
+delta-lake-assignment/Screenshots/
