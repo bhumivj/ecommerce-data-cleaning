@@ -1,0 +1,521 @@
+product_id,product_name,category,subcategory,cost_price
+1,Denim Jacket,Electronics,Cameras,3988.61
+2,Coffee Mug,Books,Non-Fiction,2498.84
+3,Kitchen Knife Set,Home,Decor,696.44
+4,Bluetooth Speaker,Books,Academic,4191.68
+5,Led Desk Lamp,Electronics,Mobiles,53.35
+6,Office Chair,Books,Non-Fiction,1544.23
+7,Denim Jacket,Home,Kitchen,4523.81
+8,Smart Watch,Clothing,Men,3643.64
+9,Running Shoes,Clothing,Footwear,55.38
+10,Office Chair,Books,Fiction,2621.25
+11,Wireless Mouse,Books,Fiction,4094.69
+12,Wall Clock,Books,Non-Fiction,3667.28
+13,Kitchen Knife Set,Electronics,Mobiles,1531.31
+14,Office Chair,Books,Non-Fiction,3071.08
+15,Denim Jacket,Clothing,Footwear,3159.0
+16,Phone Case,Clothing,Footwear,4306.81
+17,Office Chair,Electronics,Mobiles,2968.39
+18,Coffee Mug,Books,Academic,742.16
+19,Steel Water Bottle,Home,Kitchen,3020.04
+20,Yoga Mat,Home,Kitchen,983.8
+21,Bluetooth Speaker,Books,Academic,3979.2
+22,Smart Watch,Clothing,Footwear,2989.95
+23,Kitchen Knife Set,Electronics,Headphones,2863.48
+24,Wall Clock,Home,Furniture,3863.32
+25,Running Shoes,Electronics,Accessories,4616.77
+26,Backpack,Books,Academic,2146.7
+27,Sunglasses,Books,Fiction,805.77
+28,Running Shoes,Electronics,Headphones,1055.83
+29,Smart Watch,Clothing,Kids,3827.96
+30,Coffee Mug,Electronics,Headphones,4240.02
+31,Running Shoes,Electronics,Laptops,624.13
+32,Led Desk Lamp,Electronics,Headphones,3522.42
+33,Denim Jacket,Clothing,Footwear,3925.79
+34,Denim Jacket,Home,Furniture,1380.38
+35,Kitchen Knife Set,Electronics,Mobiles,1396.3
+36,Table Lamp,Electronics,Headphones,2505.93
+37,Wall Clock,Home,Kitchen,876.06
+38,Cotton T-Shirt,Clothing,Kids,3386.9
+39,Backpack,Electronics,Laptops,110.83
+40,Denim Jacket,Electronics,Cameras,792.92
+41,Coffee Mug,Electronics,Accessories,4583.48
+42,Running Shoes,Home,Decor,641.03
+43,Steel Water Bottle,Electronics,Laptops,4908.0
+44,Bookshelf,Books,Fiction,3878.96
+45,Running Shoes,Home,Decor,89.45
+46,Table Lamp,Clothing,Kids,3710.9
+47,Denim Jacket,Clothing,Footwear,2492.14
+48,Office Chair,Clothing,Women,1203.34
+49,Kitchen Knife Set,Home,Kitchen,4252.58
+50,Notebook Set,Home,Kitchen,1228.93
+51,Office Chair,Books,Fiction,510.48
+52,Denim Jacket,Clothing,Footwear,3752.1
+53,Office Chair,Electronics,Accessories,2002.04
+54,Office Chair,Electronics,Cameras,1609.29
+55,Kitchen Knife Set,Books,Academic,1206.38
+56,Table Lamp,Clothing,Women,2275.36
+57,Cotton T-Shirt,Home,Appliances,4824.94
+58,Yoga Mat,Clothing,Footwear,4269.79
+59,Yoga Mat,Electronics,Laptops,3499.55
+60,Kitchen Knife Set,Electronics,Laptops,4843.58
+61,Yoga Mat,Books,Fiction,203.86
+62,Sunglasses,Books,Comics,1286.77
+63,Office Chair,Books,Fiction,3915.75
+64,Notebook Set,Clothing,Women,1892.59
+65,Table Lamp,Electronics,Accessories,157.91
+66,Bookshelf,Electronics,Laptops,505.29
+67,Bluetooth Speaker,Home,Kitchen,300.66
+68,Wall Clock,Books,Comics,905.4
+69,Gaming Keyboard,Clothing,Women,221.51
+70,Wall Clock,Clothing,Kids,2775.91
+71,Gaming Keyboard,Electronics,Mobiles,2125.21
+72,Smart Watch,Clothing,Men,1827.6
+73,Table Lamp,Books,Academic,1972.49
+74,Kitchen Knife Set,Clothing,Men,195.05
+75,Wall Clock,Home,Kitchen,3845.87
+76,Cotton T-Shirt,Clothing,Women,2691.76
+77,Table Lamp,Electronics,Laptops,3997.08
+78,Led Desk Lamp,Home,Furniture,3703.62
+79,Denim Jacket,Home,Kitchen,2839.85
+80,Sunglasses,Clothing,Footwear,2477.66
+81,Steel Water Bottle,Electronics,Mobiles,148.64
+82,Kitchen Knife Set,Books,Fiction,1047.25
+83,Led Desk Lamp,Clothing,Kids,4229.21
+84,Wireless Mouse,Home,Kitchen,751.18
+85,Denim Jacket,Electronics,Accessories,1899.27
+86,Kitchen Knife Set,Books,Fiction,725.44
+87,Wall Clock,Clothing,Footwear,912.3
+88,Table Lamp,Home,Furniture,1923.0
+89,Led Desk Lamp,Home,Furniture,4746.5
+90,Led Desk Lamp,Books,Fiction,4609.14
+91,Wall Clock,Clothing,Men,1228.08
+92,Running Shoes,Home,Furniture,3366.62
+93,Wireless Mouse,Home,Appliances,385.58
+94,Wireless Mouse,Home,Kitchen,2127.28
+95,Wall Clock,Clothing,Footwear,1788.59
+96,Wall Clock,Books,Fiction,2911.37
+97,Bookshelf,Clothing,Women,1509.8
+98,Cotton T-Shirt,Home,Decor,1908.52
+99,Running Shoes,Electronics,Accessories,4927.12
+100,Coffee Mug,Books,Fiction,866.74
+101,Bluetooth Speaker,Books,Non-Fiction,990.42
+102,Yoga Mat,Home,Decor,2880.26
+103,Bluetooth Speaker,Books,Non-Fiction,2166.65
+104,Notebook Set,Home,Appliances,3209.04
+105,Cotton T-Shirt,Electronics,Cameras,2017.46
+106,Running Shoes,Books,Academic,1968.26
+107,Denim Jacket,Home,Appliances,2226.72
+108,Gaming Keyboard,Home,Furniture,798.1
+109,Denim Jacket,Electronics,Mobiles,2099.23
+110,Smart Watch,Clothing,Men,2122.23
+111,Wall Clock,Books,Non-Fiction,4277.0
+112,Table Lamp,Electronics,Accessories,4012.23
+113,Bookshelf,Clothing,Men,4862.22
+114,Bluetooth Speaker,Clothing,Women,4941.99
+115,Office Chair,Books,Non-Fiction,1326.54
+116,Smart Watch,Electronics,Mobiles,2782.67
+117,Wireless Mouse,Home,Appliances,3134.14
+118,Coffee Mug,Books,Fiction,2934.25
+119,Table Lamp,Electronics,Mobiles,3939.44
+120,Gaming Keyboard,Home,Appliances,2453.64
+121,Led Desk Lamp,Books,Fiction,3062.84
+122,Smart Watch,Books,Fiction,1690.9
+123,Wall Clock,Clothing,Men,4490.31
+124,Yoga Mat,Electronics,Headphones,4222.09
+125,Office Chair,Electronics,Laptops,3731.43
+126,Coffee Mug,Home,Decor,491.97
+127,Coffee Mug,Books,Non-Fiction,3809.49
+128,Backpack,Home,Kitchen,374.8
+129,Backpack,Books,Non-Fiction,193.29
+130,Bluetooth Speaker,Clothing,Women,4594.25
+131,Denim Jacket,Clothing,Kids,2550.38
+132,Steel Water Bottle,Electronics,Mobiles,2990.52
+133,Table Lamp,Clothing,Footwear,1754.03
+134,Yoga Mat,Home,Kitchen,4276.42
+135,Steel Water Bottle,Clothing,Women,1381.96
+136,Wireless Mouse,Books,Fiction,704.95
+137,Steel Water Bottle,Clothing,Men,1562.03
+138,Smart Watch,Home,Appliances,2322.04
+139,Yoga Mat,Clothing,Footwear,4130.34
+140,Wireless Mouse,Books,Fiction,3328.66
+141,Yoga Mat,Home,Decor,2434.61
+142,Kitchen Knife Set,Home,Decor,1342.68
+143,Office Chair,Home,Furniture,1239.5
+144,Smart Watch,Electronics,Accessories,3419.74
+145,Yoga Mat,Electronics,Cameras,1971.96
+146,Table Lamp,Electronics,Accessories,1748.68
+147,Denim Jacket,Clothing,Footwear,4234.83
+148,Cotton T-Shirt,Clothing,Kids,3717.55
+149,Running Shoes,Clothing,Kids,4363.59
+150,Denim Jacket,Books,Academic,4263.51
+151,Table Lamp,Books,Fiction,3122.24
+152,Backpack,Books,Non-Fiction,2672.7
+153,Office Chair,Books,Fiction,2075.5
+154,Kitchen Knife Set,Books,Non-Fiction,942.77
+155,Kitchen Knife Set,Electronics,Cameras,925.28
+156,Bookshelf,Electronics,Mobiles,884.6
+157,Running Shoes,Clothing,Footwear,2175.58
+158,Smart Watch,Books,Comics,3666.76
+159,Backpack,Electronics,Headphones,3152.1
+160,Denim Jacket,Clothing,Women,558.41
+161,Running Shoes,Home,Furniture,1526.1
+162,Backpack,Home,Appliances,1722.28
+163,Wall Clock,Clothing,Kids,982.71
+164,Steel Water Bottle,Books,Fiction,1095.39
+165,Backpack,Electronics,Accessories,3270.17
+166,Gaming Keyboard,Electronics,Cameras,3134.52
+167,Wireless Mouse,Electronics,Mobiles,2249.36
+168,Gaming Keyboard,Electronics,Accessories,807.98
+169,Coffee Mug,Electronics,Headphones,3329.29
+170,Coffee Mug,Home,Furniture,569.33
+171,Cotton T-Shirt,Electronics,Headphones,2513.81
+172,Backpack,Clothing,Kids,1821.71
+173,Led Desk Lamp,Books,Academic,1078.09
+174,Steel Water Bottle,Books,Academic,4539.06
+175,Running Shoes,Books,Non-Fiction,421.49
+176,Steel Water Bottle,Electronics,Headphones,4887.59
+177,Bluetooth Speaker,Home,Appliances,245.25
+178,Kitchen Knife Set,Home,Decor,623.71
+179,Office Chair,Electronics,Mobiles,894.04
+180,Phone Case,Home,Appliances,1894.48
+181,Cotton T-Shirt,Home,Furniture,4813.43
+182,Wall Clock,Home,Appliances,3261.79
+183,Office Chair,Clothing,Men,340.3
+184,Coffee Mug,Clothing,Men,2439.24
+185,Phone Case,Books,Non-Fiction,1825.06
+186,Wall Clock,Electronics,Laptops,609.04
+187,Bluetooth Speaker,Books,Comics,111.18
+188,Backpack,Clothing,Kids,3517.87
+189,Steel Water Bottle,Electronics,Cameras,3335.37
+190,Sunglasses,Books,Non-Fiction,3083.92
+191,Backpack,Electronics,Laptops,4266.76
+192,Wall Clock,Clothing,Men,1687.93
+193,Backpack,Home,Kitchen,2046.22
+194,Bookshelf,Clothing,Men,2886.52
+195,Bookshelf,Electronics,Cameras,4904.32
+196,Smart Watch,Electronics,Mobiles,2807.8
+197,Phone Case,Electronics,Mobiles,3205.81
+198,Kitchen Knife Set,Clothing,Footwear,318.66
+199,Kitchen Knife Set,Clothing,Footwear,3117.8
+200,Bookshelf,Books,Academic,1147.65
+201,Yoga Mat,Home,Decor,1900.76
+202,Led Desk Lamp,Electronics,Mobiles,4118.1
+203,Gaming Keyboard,Books,Fiction,978.34
+204,Bookshelf,Books,Non-Fiction,993.36
+205,Coffee Mug,Home,Kitchen,3377.1
+206,Bookshelf,Electronics,Cameras,4783.14
+207,Wireless Mouse,Clothing,Footwear,290.43
+208,Backpack,Books,Comics,4555.4
+209,Cotton T-Shirt,Clothing,Women,3022.7
+210,Coffee Mug,Home,Appliances,4583.76
+211,Smart Watch,Clothing,Kids,4853.93
+212,Office Chair,Books,Non-Fiction,3515.07
+213,Sunglasses,Home,Decor,1044.4
+214,Office Chair,Home,Decor,3267.93
+215,Cotton T-Shirt,Clothing,Kids,2833.29
+216,Coffee Mug,Books,Academic,2637.51
+217,Office Chair,Electronics,Cameras,1371.54
+218,Gaming Keyboard,Clothing,Kids,3932.57
+219,Denim Jacket,Clothing,Men,557.28
+220,Steel Water Bottle,Clothing,Footwear,3994.33
+221,Smart Watch,Home,Kitchen,4785.67
+222,Wireless Mouse,Home,Kitchen,1055.28
+223,Denim Jacket,Books,Non-Fiction,2755.74
+224,Yoga Mat,Clothing,Women,4918.09
+225,Led Desk Lamp,Electronics,Laptops,640.8
+226,Gaming Keyboard,Electronics,Cameras,693.83
+227,Kitchen Knife Set,Home,Kitchen,4690.6
+228,Kitchen Knife Set,Electronics,Laptops,3879.62
+229,Table Lamp,Home,Appliances,410.76
+230,Led Desk Lamp,Home,Furniture,3941.98
+231,Sunglasses,Clothing,Footwear,505.13
+232,Kitchen Knife Set,Clothing,Women,1503.19
+233,Cotton T-Shirt,Books,Fiction,2256.05
+234,Kitchen Knife Set,Clothing,Men,3991.22
+235,Gaming Keyboard,Electronics,Cameras,1450.0
+236,Wall Clock,Home,Appliances,1002.94
+237,Led Desk Lamp,Electronics,Mobiles,3877.93
+238,Notebook Set,Electronics,Mobiles,3879.23
+239,Notebook Set,Books,Fiction,3528.58
+240,Office Chair,Books,Fiction,237.54
+241,Led Desk Lamp,Electronics,Mobiles,2812.52
+242,Coffee Mug,Clothing,Kids,3169.58
+243,Wireless Mouse,Books,Academic,635.61
+244,Running Shoes,Electronics,Accessories,2948.76
+245,Backpack,Electronics,Headphones,1541.69
+246,Bookshelf,Electronics,Headphones,4119.51
+247,Led Desk Lamp,Electronics,Cameras,725.09
+248,Office Chair,Books,Academic,4828.56
+249,Sunglasses,Home,Kitchen,749.8
+250,Table Lamp,Electronics,Mobiles,2708.9
+251,Notebook Set,Electronics,Headphones,4522.55
+252,Coffee Mug,Home,Furniture,4264.72
+253,Led Desk Lamp,Clothing,Women,1011.91
+254,Sunglasses,Clothing,Men,2770.84
+255,Gaming Keyboard,Home,Kitchen,2461.59
+256,Office Chair,Home,Decor,1210.94
+257,Notebook Set,Home,Kitchen,2280.7
+258,Table Lamp,Home,Furniture,4048.11
+259,Wireless Mouse,Books,Non-Fiction,3939.02
+260,Denim Jacket,Books,Academic,4395.53
+261,Denim Jacket,Books,Comics,2460.51
+262,Phone Case,Electronics,Laptops,4140.9
+263,Running Shoes,Clothing,Kids,4465.92
+264,Table Lamp,Electronics,Accessories,2970.68
+265,Gaming Keyboard,Electronics,Accessories,4993.7
+266,Denim Jacket,Books,Non-Fiction,4462.62
+267,Bookshelf,Home,Furniture,498.24
+268,Steel Water Bottle,Home,Kitchen,4042.37
+269,Bookshelf,Clothing,Women,2850.77
+270,Denim Jacket,Clothing,Footwear,1197.16
+271,Steel Water Bottle,Home,Decor,4543.24
+272,Wall Clock,Home,Appliances,4413.68
+273,Cotton T-Shirt,Electronics,Headphones,2630.8
+274,Table Lamp,Home,Decor,910.56
+275,Table Lamp,Books,Academic,4185.57
+276,Steel Water Bottle,Home,Appliances,1796.85
+277,Wall Clock,Home,Appliances,82.66
+278,Led Desk Lamp,Clothing,Footwear,1440.01
+279,Led Desk Lamp,Clothing,Women,3600.65
+280,Coffee Mug,Electronics,Laptops,3615.27
+281,Wall Clock,Books,Comics,4175.16
+282,Bluetooth Speaker,Electronics,Laptops,716.88
+283,Office Chair,Electronics,Accessories,941.19
+284,Yoga Mat,Books,Fiction,1122.14
+285,Led Desk Lamp,Books,Comics,756.43
+286,Led Desk Lamp,Clothing,Kids,1746.22
+287,Steel Water Bottle,Books,Fiction,704.46
+288,Backpack,Electronics,Laptops,2546.58
+289,Phone Case,Books,Non-Fiction,3093.0
+290,Backpack,Electronics,Accessories,511.29
+291,Coffee Mug,Clothing,Men,1883.37
+292,Coffee Mug,Electronics,Accessories,3958.3
+293,Table Lamp,Books,Academic,4543.9
+294,Office Chair,Electronics,Cameras,4554.92
+295,Phone Case,Electronics,Headphones,2072.8
+296,Wireless Mouse,Clothing,Men,633.25
+297,Notebook Set,Electronics,Cameras,1613.71
+298,Office Chair,Home,Kitchen,2947.58
+299,Table Lamp,Home,Appliances,1414.02
+300,Coffee Mug,Books,Non-Fiction,2809.94
+301,Sunglasses,Clothing,Kids,1306.2
+302,Smart Watch,Home,Decor,4282.24
+303,Bookshelf,Electronics,Laptops,4748.76
+304,Backpack,Electronics,Laptops,1725.27
+305,Smart Watch,Electronics,Laptops,76.19
+306,Wall Clock,Electronics,Laptops,2205.12
+307,Steel Water Bottle,Electronics,Headphones,3064.69
+308,Phone Case,Books,Comics,1468.02
+309,Wall Clock,Electronics,Laptops,1048.45
+310,Bluetooth Speaker,Home,Furniture,2577.21
+311,Bluetooth Speaker,Clothing,Women,3292.34
+312,Gaming Keyboard,Clothing,Men,1797.98
+313,Table Lamp,Books,Comics,3532.93
+314,Yoga Mat,Electronics,Accessories,2817.61
+315,Gaming Keyboard,Home,Decor,2301.06
+316,Gaming Keyboard,Books,Fiction,2815.22
+317,Cotton T-Shirt,Home,Decor,4785.71
+318,Smart Watch,Home,Appliances,3861.34
+319,Bookshelf,Home,Appliances,4317.02
+320,Gaming Keyboard,Books,Fiction,4971.28
+321,Coffee Mug,Clothing,Kids,2606.7
+322,Steel Water Bottle,Electronics,Headphones,3756.5
+323,Sunglasses,Home,Kitchen,2408.95
+324,Table Lamp,Home,Furniture,3431.38
+325,Notebook Set,Clothing,Footwear,1363.76
+326,Steel Water Bottle,Clothing,Women,1812.34
+327,Running Shoes,Electronics,Mobiles,3333.95
+328,Bluetooth Speaker,Electronics,Accessories,1887.42
+329,Table Lamp,Home,Appliances,2479.49
+330,Steel Water Bottle,Home,Appliances,684.82
+331,Sunglasses,Books,Comics,4308.98
+332,Cotton T-Shirt,Clothing,Footwear,2327.35
+333,Notebook Set,Electronics,Mobiles,548.7
+334,Led Desk Lamp,Home,Decor,1223.84
+335,Denim Jacket,Books,Academic,2124.51
+336,Smart Watch,Home,Decor,699.14
+337,Gaming Keyboard,Clothing,Men,2798.93
+338,Office Chair,Books,Non-Fiction,3705.78
+339,Led Desk Lamp,Books,Fiction,715.63
+340,Yoga Mat,Home,Appliances,286.16
+341,Bluetooth Speaker,Electronics,Laptops,4202.91
+342,Kitchen Knife Set,Electronics,Cameras,2809.58
+343,Wireless Mouse,Home,Decor,1787.9
+344,Yoga Mat,Clothing,Women,3382.3
+345,Running Shoes,Books,Comics,1468.29
+346,Kitchen Knife Set,Clothing,Women,3080.94
+347,Running Shoes,Books,Fiction,1618.55
+348,Phone Case,Home,Decor,1392.68
+349,Table Lamp,Books,Academic,2278.93
+350,Wireless Mouse,Clothing,Women,1295.65
+351,Led Desk Lamp,Electronics,Laptops,522.99
+352,Wireless Mouse,Books,Fiction,2643.71
+353,Gaming Keyboard,Electronics,Mobiles,467.34
+354,Steel Water Bottle,Books,Academic,3151.08
+355,Wireless Mouse,Clothing,Women,4580.6
+356,Sunglasses,Books,Comics,2765.3
+357,Table Lamp,Clothing,Women,3173.69
+358,Denim Jacket,Books,Academic,1174.29
+359,Yoga Mat,Electronics,Cameras,1336.04
+360,Wireless Mouse,Home,Kitchen,3803.55
+361,Yoga Mat,Clothing,Kids,91.17
+362,Yoga Mat,Books,Comics,1499.97
+363,Sunglasses,Clothing,Men,2088.09
+364,Steel Water Bottle,Books,Comics,1979.13
+365,Gaming Keyboard,Books,Non-Fiction,2607.22
+366,Sunglasses,Home,Decor,2093.87
+367,Office Chair,Electronics,Laptops,3107.76
+368,Notebook Set,Home,Appliances,803.14
+369,Cotton T-Shirt,Electronics,Laptops,2220.16
+370,Running Shoes,Electronics,Laptops,1742.47
+371,Denim Jacket,Home,Appliances,3967.55
+372,Office Chair,Home,Kitchen,403.35
+373,Notebook Set,Books,Non-Fiction,1287.89
+374,Cotton T-Shirt,Books,Fiction,3587.68
+375,Steel Water Bottle,Books,Comics,215.88
+376,Backpack,Books,Fiction,1081.81
+377,Kitchen Knife Set,Books,Academic,3736.39
+378,Wall Clock,Electronics,Headphones,1033.68
+379,Cotton T-Shirt,Electronics,Laptops,124.59
+380,Smart Watch,Home,Kitchen,94.2
+381,Wall Clock,Electronics,Accessories,817.21
+382,Led Desk Lamp,Electronics,Laptops,3445.43
+383,Bluetooth Speaker,Home,Kitchen,811.9
+384,Wall Clock,Electronics,Laptops,3953.38
+385,Notebook Set,Home,Appliances,3635.78
+386,Wall Clock,Home,Kitchen,2817.17
+387,Table Lamp,Books,Non-Fiction,3675.39
+388,Running Shoes,Home,Furniture,2274.45
+389,Bookshelf,Home,Decor,1926.27
+390,Phone Case,Clothing,Men,3891.28
+391,Running Shoes,Clothing,Kids,2717.83
+392,Backpack,Books,Non-Fiction,3840.38
+393,Kitchen Knife Set,Clothing,Kids,1644.02
+394,Running Shoes,Electronics,Accessories,934.26
+395,Cotton T-Shirt,Electronics,Laptops,538.83
+396,Backpack,Books,Comics,2971.99
+397,Steel Water Bottle,Electronics,Headphones,400.83
+398,Running Shoes,Clothing,Footwear,3212.64
+399,Denim Jacket,Home,Appliances,338.59
+400,Running Shoes,Home,Kitchen,435.78
+401,Cotton T-Shirt,Clothing,Men,2681.72
+402,Backpack,Clothing,Women,2871.64
+403,Cotton T-Shirt,Clothing,Footwear,2903.99
+404,Cotton T-Shirt,Books,Comics,2037.71
+405,Sunglasses,Home,Furniture,2242.91
+406,Sunglasses,Home,Decor,1657.04
+407,Coffee Mug,Home,Appliances,1651.08
+408,Smart Watch,Clothing,Women,4634.43
+409,Bookshelf,Home,Decor,2015.6
+410,Phone Case,Electronics,Headphones,4457.11
+411,Steel Water Bottle,Electronics,Headphones,3869.04
+412,Cotton T-Shirt,Home,Furniture,735.12
+413,Steel Water Bottle,Home,Furniture,2873.91
+414,Kitchen Knife Set,Clothing,Men,905.87
+415,Yoga Mat,Electronics,Accessories,1938.65
+416,Denim Jacket,Electronics,Headphones,2199.81
+417,Phone Case,Electronics,Laptops,3187.74
+418,Yoga Mat,Books,Fiction,1630.62
+419,Backpack,Clothing,Kids,808.33
+420,Phone Case,Books,Comics,495.91
+421,Smart Watch,Books,Academic,2405.48
+422,Smart Watch,Electronics,Accessories,2200.73
+423,Wall Clock,Clothing,Women,2464.91
+424,Steel Water Bottle,Clothing,Women,1650.89
+425,Coffee Mug,Electronics,Mobiles,1774.12
+426,Phone Case,Home,Decor,3859.92
+427,Phone Case,Clothing,Kids,4023.84
+428,Bluetooth Speaker,Clothing,Footwear,1205.77
+429,Running Shoes,Home,Furniture,4747.26
+430,Wireless Mouse,Clothing,Kids,4031.19
+431,Wall Clock,Home,Appliances,2713.13
+432,Sunglasses,Clothing,Kids,3663.12
+433,Smart Watch,Clothing,Men,3334.47
+434,Led Desk Lamp,Electronics,Headphones,3497.81
+435,Bookshelf,Home,Kitchen,91.25
+436,Denim Jacket,Books,Academic,144.44
+437,Smart Watch,Books,Non-Fiction,3562.96
+438,Phone Case,Home,Appliances,972.77
+439,Bluetooth Speaker,Books,Fiction,1701.17
+440,Wireless Mouse,Books,Non-Fiction,1791.97
+441,Backpack,Home,Furniture,1325.51
+442,Sunglasses,Books,Fiction,1166.63
+443,Office Chair,Home,Appliances,4805.0
+444,Steel Water Bottle,Clothing,Footwear,2161.0
+445,Bookshelf,Home,Decor,1073.45
+446,Office Chair,Clothing,Women,3540.43
+447,Office Chair,Clothing,Footwear,2845.98
+448,Running Shoes,Clothing,Kids,4745.58
+449,Kitchen Knife Set,Electronics,Laptops,770.34
+450,Coffee Mug,Electronics,Headphones,1551.57
+451,Notebook Set,Home,Furniture,3824.12
+452,Phone Case,Home,Furniture,1828.34
+453,Backpack,Books,Non-Fiction,2370.38
+454,Smart Watch,Home,Furniture,730.69
+455,Bluetooth Speaker,Clothing,Women,4845.63
+456,Steel Water Bottle,Home,Appliances,4941.8
+457,Led Desk Lamp,Clothing,Men,4928.86
+458,Bookshelf,Books,Academic,2166.4
+459,Smart Watch,Electronics,Accessories,2001.05
+460,Cotton T-Shirt,Electronics,Accessories,4143.7
+461,Backpack,Electronics,Laptops,4919.96
+462,Smart Watch,Electronics,Accessories,3171.71
+463,Yoga Mat,Electronics,Laptops,4427.77
+464,Led Desk Lamp,Home,Appliances,3085.01
+465,Office Chair,Electronics,Accessories,3248.2
+466,Cotton T-Shirt,Electronics,Accessories,4476.92
+467,Coffee Mug,Clothing,Footwear,173.31
+468,Bookshelf,Books,Non-Fiction,3260.45
+469,Running Shoes,Clothing,Men,1846.57
+470,Smart Watch,Books,Non-Fiction,267.34
+471,Table Lamp,Clothing,Kids,4320.23
+472,Led Desk Lamp,Clothing,Women,303.99
+473,Bookshelf,Home,Decor,4497.78
+474,Phone Case,Clothing,Men,110.43
+475,Sunglasses,Books,Comics,3059.52
+476,Notebook Set,Books,Non-Fiction,2404.77
+477,Running Shoes,Books,Comics,82.54
+478,Bluetooth Speaker,Home,Furniture,1777.65
+479,Table Lamp,Clothing,Men,1527.29
+480,Cotton T-Shirt,Electronics,Mobiles,932.33
+481,Bookshelf,Home,Furniture,1832.93
+482,Yoga Mat,Electronics,Mobiles,4492.77
+483,Sunglasses,Electronics,Cameras,654.01
+484,Backpack,Home,Decor,1088.73
+485,Cotton T-Shirt,Clothing,Men,4897.78
+486,Phone Case,Electronics,Cameras,4932.08
+487,Phone Case,Home,Appliances,1335.32
+488,Phone Case,Home,Furniture,2622.54
+489,Led Desk Lamp,Books,Comics,1201.97
+490,Wireless Mouse,Home,Furniture,3993.83
+491,Coffee Mug,Clothing,Footwear,4039.92
+492,Notebook Set,Clothing,Men,1309.37
+493,Yoga Mat,Electronics,Headphones,1653.42
+494,Kitchen Knife Set,Electronics,Mobiles,3635.76
+495,Notebook Set,Electronics,Laptops,1722.79
+496,Bluetooth Speaker,Books,Comics,2433.4
+497,Bookshelf,Books,Academic,2099.07
+498,Yoga Mat,Electronics,Accessories,3407.08
+499,Table Lamp,Electronics,Laptops,4007.7
+500,Office Chair,Home,Kitchen,4918.91
+501,Led Desk Lamp,Clothing,Footwear,4329.74
+502,Bluetooth Speaker,Home,Decor,4391.39
+503,Yoga Mat,Home,Appliances,605.54
+504,Running Shoes,Electronics,Laptops,173.43
+505,Notebook Set,Books,Non-Fiction,2443.19
+506,Office Chair,Home,Decor,536.35
+507,Bluetooth Speaker,Clothing,Women,3582.7
+508,Yoga Mat,Electronics,Mobiles,3450.91
+509,Bookshelf,Electronics,Headphones,560.36
+510,Table Lamp,Home,Kitchen,3212.31
+511,Notebook Set,Clothing,Kids,1629.79
+512,Gaming Keyboard,Books,Fiction,125.52
+513,Sunglasses,Electronics,Laptops,1626.5
+514,Table Lamp,Clothing,Kids,3085.65
+515,Bluetooth Speaker,Home,Appliances,3393.7
+516,Bluetooth Speaker,Electronics,Cameras,3538.15
+517,Yoga Mat,Books,Academic,1030.83
+518,Table Lamp,Electronics,Cameras,4602.46
+519,Bookshelf,Books,Fiction,3239.87
+520,Steel Water Bottle,Books,Comics,761.42

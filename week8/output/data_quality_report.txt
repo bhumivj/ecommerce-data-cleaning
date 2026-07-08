@@ -1,0 +1,18 @@
+============================================================
+DATA QUALITY REPORT
+Generated: 2026-07-08 05:06:40
+============================================================
+[clean_orders] Orders with missing customer_id: 25
+[clean_orders] Orders with DD-MM-YYYY format (fixed): 69
+[clean_orders] Orders with unparseable order_date (set to NaT): 0
+[clean_orders] Orders with a future order_date (flagged, not removed): 0
+[clean_products] Product names normalized (trimmed/title-cased): 508
+[validate_emails] Invalid emails found: 10
+[check_referential_integrity] Orphaned order_items rows (bad order_id): 0
+[report_extra_issues] order_items with negative quantity (returns): 56
+[report_extra_issues] order_items with zero quantity: 0
+[report_extra_issues] order_items with discount_percent out of [0,100]: 0
+------------------------------------------------------------
+Customer IDs with invalid emails: [44, 63, 149, 225, 226, 247, 420, 463, 520, 550]
+------------------------------------------------------------
+Cleaned files written to data/cleaned/
