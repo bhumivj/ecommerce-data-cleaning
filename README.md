@@ -242,3 +242,20 @@ for new rows.
 
 ## Files
 - Week-7 Assignment.py
+
+# Week 8 — E-Commerce Order Analytics System (Python + SQL)
+
+## Objective
+End-to-end analytics pipeline: generate messy e-commerce data, clean it, load into SQL, analyze it, and report results via CLI.
+
+## What I Built
+- **Data Generation**: 4 CSVs (customers, products, orders, order_items) with intentional issues — missing IDs, bad date formats, negative quantities, invalid emails.
+- **Data Cleaning**: Pandas functions to fix dates, handle nulls, normalize names, validate emails, and check referential integrity. Outputs a data quality report.
+- **SQL Analysis**: Loaded into SQLite with proper schema (PK/FK/CHECK). Wrote 16 queries — revenue/category, top customers, return rates, plus advanced window functions (running totals, DENSE_RANK, LAG/LEAD, NTILE, cohort retention, YoY growth).
+- **CLI Reporting Tool**: Takes report type + date range, prints revenue/orders/top products, compares vs previous period.
+- **Edge Case Tests**: Verified behavior for bad order references, invalid discounts, zero quantity, future dates.
+
+## Key Learnings
+- Keep NULLs instead of dropping rows — deleting messy data can quietly understate revenue.
+- Pandas turns int columns into float when NaN is present; fixed using nullable `Int64`.
+- DENSE_RANK, NTILE, and cohort retention are core analytics patterns worth understanding, not just copying.
